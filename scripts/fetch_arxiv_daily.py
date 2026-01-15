@@ -248,54 +248,101 @@ def write_topics(today: str, sections: Dict[str, List[str]], topic_meta: Dict[st
 
 
 def update_readme(today: str, digest_rel_path: str, sections: Dict[str, List[str]], topic_paths: Dict[str, str]) -> None:
-    begin = "<!-- BEGIN TODAY -->"
-    end = "<!-- END TODAY -->"
+    """
+    Updates README.md in three places:
+      1) <!-- LATEST:START --> ... <!-- LATEST:END -->
+      2) <!-- TOPICS:START --> ... <!-- TOPICS:END -->
+      3) <!-- BEGIN TODAY --> ... <!-- END TODAY -->
+    """
 
-    lines: List[str] = []
-    lines.append("## ✅ Today\n")
-    lines.append(f"**Last update:** {today}  ")
-    lines.append(f"**Daily archive:** `{digest_rel_path}`  ")
-    lines.append("")
-    lines.append("_Auto-generated. Edit `config.yml` to change topics/queries/filters._\n")
+    # --- helpers for safe block replacement ---
+    def replace_block(text: str, start_marker: str, end_marker: str, new_block_body: str) -> str:
+        if start_marker not in text or end_marker not in text:
+            # append at end if missing
+            return text.rstrip() + f"\n\n{start_marker}\n{new_block_body}\n{end_marker}\n"
+        pattern = re.compile(re.escape(start_marker) + r".*?" + re.escape(end_marker), re.DOTALL)
+        return pattern.sub(f"{start_marker}\n{new_block_body}\n{end_marker}", text)
 
-    lines.append("### Browse by topic (links)\n")
+    # --- 1) LATEST block ---
+    latest_body = "\n".join(
+        [
+            f"- Updated on: **{today}**",
+            f"- Latest digest: `{digest_rel_path}`",
+        ]
+    ).strip()
+
+    # --- 2) TOPICS table block ---
+    # We show configured topic order (sections preserves insertion order from config)
+    topic_lines = []
+    topic_lines.append("| Topic | Latest Update | Papers | Link |")
+    topic_lines.append("|------|--------------:|------:|------|")
+    for topic in sections.keys():
+        count = len(sections.get(topic, []))
+        rel = topic_paths.get(topic, "")
+        link = f"[{topic}]({rel})" if rel else topic
+        topic_lines.append(f"| {topic} | {today} | {count} | {link} |")
+    topics_body = "\n".join(topic_lines).strip()
+
+    # --- 3) TODAY block (your existing style) ---
+    begin_today = "<!-- BEGIN TODAY -->"
+    end_today = "<!-- END TODAY -->"
+
+    today_lines: List[str] = []
+    today_lines.append("## ✅ Today\n")
+    today_lines.append(f"**Last update:** {today}  ")
+    today_lines.append(f"**Daily archive:** `{digest_rel_path}`  ")
+    today_lines.append("")
+    today_lines.append("_Auto-generated. Edit `config.yml` to change topics/queries/filters._\n")
+
+    today_lines.append("### Browse by topic (links)\n")
     for topic in sections.keys():
         rel = topic_paths.get(topic)
         if rel:
-            lines.append(f"- **[{topic}]({rel})**")
-    lines.append("")
+            today_lines.append(f"- **[{topic}]({rel})**")
+    today_lines.append("")
 
-    # previews
+    # previews (top 3 per topic)
     for topic, items in sections.items():
-        lines.append(f"### {topic}\n")
+        today_lines.append(f"### {topic}\n")
         if not items:
-            lines.append("_No matches today._\n")
+            today_lines.append("_No matches today._\n")
         else:
             preview = items[: min(3, len(items))]
-            lines.extend([x.strip() for x in preview])
+            today_lines.extend([x.strip() for x in preview])
             rel = topic_paths.get(topic)
             if rel:
-                lines.append(f"- _(See full topic page: [{topic}]({rel}))_\n")
-        lines.append("")
+                today_lines.append(f"- _(See full topic page: [{topic}]({rel}))_\n")
+        today_lines.append("")
 
-    today_block = "\n".join(lines).strip()
+    today_body = "\n".join(today_lines).strip()
 
+    # --- Load / create README ---
     if not os.path.exists(README_PATH):
+        # minimal README if not present
         with open(README_PATH, "w", encoding="utf-8") as f:
-            f.write(f"# ArXiv Daily\n\n{begin}\n{today_block}\n{end}\n")
+            f.write("# arXiv Daily\n\n")
+            f.write("## Latest\n")
+            f.write("<!-- LATEST:START -->\n" + latest_body + "\n<!-- LATEST:END -->\n\n")
+            f.write("## Topic Navigator\n")
+            f.write("<!-- TOPICS:START -->\n" + topics_body + "\n<!-- TOPICS:END -->\n\n")
+            f.write(begin_today + "\n" + today_body + "\n" + end_today + "\n")
         return
 
     with open(README_PATH, "r", encoding="utf-8") as f:
         original = f.read()
 
-    if begin not in original or end not in original:
-        original = original.rstrip() + f"\n\n{begin}\n{today_block}\n{end}\n"
-    else:
-        pattern = re.compile(re.escape(begin) + r".*?" + re.escape(end), re.DOTALL)
-        original = pattern.sub(f"{begin}\n{today_block}\n{end}", original)
+    # Replace/append LATEST block
+    original = replace_block(original, "<!-- LATEST:START -->", "<!-- LATEST:END -->", latest_body)
+
+    # Replace/append TOPICS block
+    original = replace_block(original, "<!-- TOPICS:START -->", "<!-- TOPICS:END -->", topics_body)
+
+    # Replace/append TODAY block
+    original = replace_block(original, begin_today, end_today, today_body)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(original)
+
 
 
 def main() -> None:
