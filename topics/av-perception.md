@@ -1,0 +1,164 @@
+# Autonomous Driving – Perception (2D/3D Detection, Segmentation)
+
+**Last update:** 2026-01-15
+
+> Auto-generated. Edit `config.yml` to change queries/filters.
+
+## Latest
+
+- **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**
+  - Authors: Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09708v1) | [PDF](https://arxiv.org/pdf/2601.09708v1)
+- **SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3**
+  - Authors: Ruiqi Shen, Chang Liu, Henghui Ding
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09699v1) | [PDF](https://arxiv.org/pdf/2601.09699v1)
+- **COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**
+  - Authors: Tony Danjun Wang, Tolga Birdal, Nassir Navab, Lennart Bastian
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09698v1) | [PDF](https://arxiv.org/pdf/2601.09698v1)
+- **Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**
+  - Authors: Jieying Chen, Jeffrey Hu, Joan Lasenby, Ayush Tewari
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09697v1) | [PDF](https://arxiv.org/pdf/2601.09697v1)
+- **LLMs can Compress LLMs: Adaptive Pruning by Agents**
+  - Authors: Sai Varun Kodathala, Rakesh Vunnam
+  - Published: 2026-01-14 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09694v1) | [PDF](https://arxiv.org/pdf/2601.09694v1)
+- **STEP3-VL-10B Technical Report**
+  - Authors: Ailin Huang, Chengyuan Yao, Chunrui Han, Fanqi Wan, Hangyu Guo, Haoran Lv, Hongyu Zhou, Jia Wang et al.
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09668v1) | [PDF](https://arxiv.org/pdf/2601.09668v1)
+- **SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**
+  - Authors: Yuchen Wu, Jiahe Li, Xiaohan Yu, Lina Yu, Jin Zheng, Xiao Bai
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09665v1) | [PDF](https://arxiv.org/pdf/2601.09665v1)
+- **Self-Supervised Animal Identification for Long Videos**
+  - Authors: Xuyang Fang, Sion Hannuna, Edwin Simpson, Neill Campbell
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09663v1) | [PDF](https://arxiv.org/pdf/2601.09663v1)
+- **LiteEmbed: Adapting CLIP to Rare Classes**
+  - Authors: Aishwarya Agarwal, Srikrishna Karanam, Vineet Gandhi
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09661v1) | [PDF](https://arxiv.org/pdf/2601.09661v1)
+- **Image2Garment: Simulation-ready Garment Generation from a Single Image**
+  - Authors: Selim Emir Can, Jan Ackermann, Kiyohiro Nakayama, Ruofan Liu, Tong Wu, Yang Zheng, Hugo Bertiche, Menglei Chai et al.
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09658v1) | [PDF](https://arxiv.org/pdf/2601.09658v1)
+- **AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**
+  - Authors: Emanuel da Costa Silva, Tatiana Taís Schein, José David García Ramos, Eduardo Lawson da Silva, Stephanie Loi Brião, Felipe Gomes de Oliveira, Paulo Lilles Jorge Drews-Jr
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09652v1) | [PDF](https://arxiv.org/pdf/2601.09652v1)
+- **Identifying Models Behind Text-to-Image Leaderboards**
+  - Authors: Ali Naseh, Yuefeng Peng, Anshuman Suri, Harsh Chaudhari, Alina Oprea, Amir Houmansadr
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09647v1) | [PDF](https://arxiv.org/pdf/2601.09647v1)
+- **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**
+  - Authors: Yibo Lyu, Gongwei Chen, Rui Shao, Weili Guan, Liqiang Nie
+  - Published: 2026-01-14 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09636v1) | [PDF](https://arxiv.org/pdf/2601.09636v1)
+- **Toward Understanding Unlearning Difficulty: A Mechanistic Perspective and Circuit-Guided Difficulty Metric**
+  - Authors: Jiali Cheng, Ziheng Chen, Chirag Agarwal, Hadi Amiri
+  - Published: 2026-01-14 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09624v1) | [PDF](https://arxiv.org/pdf/2601.09624v1)
+- **CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems**
+  - Authors: Yonglin Tian, Qiyao Zhang, Wei Xu, Yutong Wang, Yihao Wu, Xinyi Li, Xingyuan Dai, Hui Zhang et al.
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09613v1) | [PDF](https://arxiv.org/pdf/2601.09613v1)
+- **GRCF: Two-Stage Groupwise Ranking and Calibration Framework for Multimodal Sentiment Analysis**
+  - Authors: Manning Gao, Leheng Zhang, Shiqin Han, Haifeng Hu, Yuncheng Jiang, Sijie Mai
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09606v1) | [PDF](https://arxiv.org/pdf/2601.09606v1)
+- **Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**
+  - Authors: Jeremiah Coholich, Justin Wit, Robert Azarcon, Zsolt Kira
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09605v1) | [PDF](https://arxiv.org/pdf/2601.09605v1)
+- **Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**
+  - Authors: Emmanuele Barberi, Felice Sfravara, Filippo Cucinotta
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09601v1) | [PDF](https://arxiv.org/pdf/2601.09601v1)
+- **Show, don't tell -- Providing Visual Error Feedback for Handwritten Documents**
+  - Authors: Said Yasin, Torsten Zesch
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09586v1) | [PDF](https://arxiv.org/pdf/2601.09586v1)
+- **Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**
+  - Authors: Jiajun Sun, Yangyi Ou, Haoyuan Zheng, Chao yang, Yue Ma
+  - Published: 2026-01-14 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09578v1) | [PDF](https://arxiv.org/pdf/2601.09578v1)
+- **OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**
+  - Authors: Sheng-Yu Huang, Jaesung Choe, Yu-Chiang Frank Wang, Cheng Sun
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09575v1) | [PDF](https://arxiv.org/pdf/2601.09575v1)
+- **Trustworthy Longitudinal Brain MRI Completion: A Deformation-Based Approach with KAN-Enhanced Diffusion Model**
+  - Authors: Tianli Tao, Ziyang Wang, Delong Yang, Han Zhang, Le Zhang
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09572v1) | [PDF](https://arxiv.org/pdf/2601.09572v1)
+- **Hot-Start from Pixels: Low-Resolution Visual Tokens for Chinese Language Modeling**
+  - Authors: Shuyang Xiang, Hao Guan
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09566v1) | [PDF](https://arxiv.org/pdf/2601.09566v1)
+- **Bipartite Mode Matching for Vision Training Set Search from a Hierarchical Data Server**
+  - Authors: Yue Yao, Ruining Yang, Tom Gedeon
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09531v1) | [PDF](https://arxiv.org/pdf/2601.09531v1)
+- **GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**
+  - Authors: Alfio Spoto, Rosario Leonardi, Francesco Ragusa, Giovanni Maria Farinella
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09528v1) | [PDF](https://arxiv.org/pdf/2601.09528v1)
+- **Video Joint-Embedding Predictive Architectures for Facial Expression Recognition**
+  - Authors: Lennart Eing, Cristina Luna-Jiménez, Silvan Mertes, Elisabeth André
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09524v1) | [PDF](https://arxiv.org/pdf/2601.09524v1)
+- **Class Adaptive Conformal Training**
+  - Authors: Badr-Eddine Marani, Julio Silva-Rodriguez, Ismail Ben Ayed, Maria Vakalopoulou, Stergios Christodoulidis, Jose Dolz
+  - Published: 2026-01-14 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09522v1) | [PDF](https://arxiv.org/pdf/2601.09522v1)
+- **Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**
+  - Authors: Wei-Jin Huang, Yue-Yi Zhang, Yi-Lin Wei, Zhi-Wei Xia, Juantao Tan, Yuan-Ming Li, Zhilin Zhao, Wei-Shi Zheng
+  - Published: 2026-01-14 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09518v1) | [PDF](https://arxiv.org/pdf/2601.09518v1)
+- **CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**
+  - Authors: Ralf Römer, Yi Zhang, Angela P. Schoellig
+  - Published: 2026-01-14 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09512v1) | [PDF](https://arxiv.org/pdf/2601.09512v1)
+- **V-DPM: 4D Video Reconstruction with Dynamic Point Maps**
+  - Authors: Edgar Sucar, Eldar Insafutdinov, Zihang Lai, Andrea Vedaldi
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09499v1) | [PDF](https://arxiv.org/pdf/2601.09499v1)
+- **Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity**
+  - Authors: Ritabrata Chakraborty, Hrishit Mitra, Shivakumara Palaiahnakote, Umapada Pal
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09497v1) | [PDF](https://arxiv.org/pdf/2601.09497v1)
+- **MAD: Motion Appearance Decoupling for efficient Driving World Models**
+  - Authors: Ahmad Rahimi, Valentin Gerard, Eloi Zablocki, Matthieu Cord, Alexandre Alahi
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09452v1) | [PDF](https://arxiv.org/pdf/2601.09452v1)
+- **PrivLEX: Detecting legal concepts in images through Vision-Language Models**
+  - Authors: Darya Baranouskaya, Andrea Cavallaro
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09449v1) | [PDF](https://arxiv.org/pdf/2601.09449v1)
+- **Data Scaling for Navigation in Unknown Environments**
+  - Authors: Lauri Suomela, Naoki Takahata, Sasanka Kuruppu Arachchige, Harry Edelman, Joni-Kristian Kämäräinen
+  - Published: 2026-01-14 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09444v1) | [PDF](https://arxiv.org/pdf/2601.09444v1)
+- **Do Transformers Understand Ancient Roman Coin Motifs Better than CNNs?**
+  - Authors: David Reid, Ognjen Arandjelovic
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09433v1) | [PDF](https://arxiv.org/pdf/2601.09433v1)
+- **Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs**
+  - Authors: Rui Zhu, Xin Shen, Shuchen Wu, Chenxi Miao, Xin Yu, Yang Li, Weikang Li, Deguo Xia et al.
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09430v1) | [PDF](https://arxiv.org/pdf/2601.09430v1)
+- **Radiomics-Integrated Deep Learning with Hierarchical Loss for Osteosarcoma Histology Classification**
+  - Authors: Yaxi Chen, Zi Ye, Shaheer U. Saeed, Oliver Yu, Simin Ni, Jie Huang, Yipeng Hu
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09416v1) | [PDF](https://arxiv.org/pdf/2601.09416v1)
+- **Detail Loss in Super-Resolution Models Based on the Laplacian Pyramid and Repeated Upscaling and Downscaling Process**
+  - Authors: Sangjun Han, Youngmi Hur
+  - Published: 2026-01-14 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09410v1) | [PDF](https://arxiv.org/pdf/2601.09410v1)
+
+---
+
+Back to main page: [README](../README.md)
