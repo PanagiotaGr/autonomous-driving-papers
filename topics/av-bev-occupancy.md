@@ -1,6 +1,6 @@
 # BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)
 
-**Last update:** 2026-01-15
+**Last update:** 2026-01-16
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 

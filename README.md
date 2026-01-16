@@ -67,8 +67,8 @@ The following research areas are tracked daily:
 ## Latest Update
 
 <!-- LATEST:START -->
-- Updated on: **2026-01-15**
-- Latest digest: `digests/2026-01-15.md`
+- Updated on: **2026-01-16**
+- Latest digest: `digests/2026-01-16.md`
 <!-- LATEST:END -->
 
 ---
@@ -78,14 +78,14 @@ The following research areas are tracked daily:
 <!-- TOPICS:START -->
 | Topic | Latest Update | Papers | Link |
 |------|--------------:|------:|------|
-| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-15 | 0 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
-| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-15 | 0 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
-| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-15 | 0 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
-| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-15 | 0 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
-| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-15 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
-| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-15 | 0 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
-| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-15 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
-| Datasets, Benchmarks & Simulation (Driving) | 2026-01-15 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
+| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-16 | 58 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
+| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-16 | 60 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
+| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-16 | 7 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
+| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-16 | 0 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
+| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-16 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
+| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-16 | 4 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
+| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-16 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
+| Datasets, Benchmarks & Simulation (Driving) | 2026-01-16 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
 <!-- TOPICS:END -->
 
 ---
@@ -137,8 +137,8 @@ Apache-2.0
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-15  
-**Daily archive:** `digests/2026-01-15.md`  
+**Last update:** 2026-01-16  
+**Daily archive:** `digests/2026-01-16.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/queries/filters._
 
@@ -155,17 +155,53 @@ _Auto-generated. Edit `config.yml` to change topics/queries/filters._
 
 ### Autonomous Driving – Perception (2D/3D Detection, Segmentation)
 
-_No matches today._
+- **WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments**
+  - Authors: Xuweiyi Chen, Wentao Zhou, Zezhou Cheng
+  - Published: 2026-01-15 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10716v1) | [PDF](https://arxiv.org/pdf/2601.10716v1)
+- **Alterbute: Editing Intrinsic Attributes of Objects in Images**
+  - Authors: Tal Reiss, Daniel Winter, Matan Cohen, Alex Rav-Acha, Yael Pritch, Ariel Shamir, Yedid Hoshen
+  - Published: 2026-01-15 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10714v1) | [PDF](https://arxiv.org/pdf/2601.10714v1)
+- **From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**
+  - Authors: Cheng Chen, Yuyu Guo, Pengpeng Zeng, Jingkuan Song, Peng Di, Hang Yu, Lianli Gao
+  - Published: 2026-01-15 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10710v1) | [PDF](https://arxiv.org/pdf/2601.10710v1)
+- _(See full topic page: [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md))_
 
 
 ### Autonomous Driving – Prediction (Trajectories, Intention, Interaction)
 
-_No matches today._
+- **DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids**
+  - Authors: Navami Kairanda, Shanthika Naik, Marc Habermann, Avinash Sharma, Christian Theobalt, Vladislav Golyanik
+  - Published: 2026-01-15 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10715v1) | [PDF](https://arxiv.org/pdf/2601.10715v1)
+- **High-accuracy and dimension-free sampling with diffusions**
+  - Authors: Khashayar Gatmiry, Sitan Chen, Adil Salim
+  - Published: 2026-01-15 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10708v1) | [PDF](https://arxiv.org/pdf/2601.10708v1)
+- **Distributed Perceptron under Bounded Staleness, Partial Participation, and Noisy Communication**
+  - Authors: Keval Jain, Anant Raj, Saurav Prakash, Girish Varma
+  - Published: 2026-01-15 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10705v1) | [PDF](https://arxiv.org/pdf/2601.10705v1)
+- _(See full topic page: [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md))_
 
 
 ### Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)
 
-_No matches today._
+- **Safe Trajectory Gradient Flow Control of a Grid-Interfacing Inverter**
+  - Authors: Trager Joswig-Jones, Baosen Zhang
+  - Published: 2026-01-15 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10671v1) | [PDF](https://arxiv.org/pdf/2601.10671v1)
+- **A user subscription model in mobile radio access networks with network slicing**
+  - Authors: José-Ramón Vidal, Luis Guijarro, Vicent Pla
+  - Published: 2026-01-15 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10605v1) | [PDF](https://arxiv.org/pdf/2601.10605v1)
+- **Single-Feed Circularly Polarized Super Realized Gain Antenna**
+  - Authors: Georgia Psychogiou, Donal P. Lynch, Spyridon N. Daskalakis, Manos M. Tentzeris, George Goussetis, Stylianos D. Asimonis
+  - Published: 2026-01-15 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10292v1) | [PDF](https://arxiv.org/pdf/2601.10292v1)
+- _(See full topic page: [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md))_
 
 
 ### BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)
@@ -180,7 +216,19 @@ _No matches today._
 
 ### V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)
 
-_No matches today._
+- **Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement**
+  - Authors: Lei Hu, Mohamed Nomeir, Alptug Aytekin, Sennur Ulukus
+  - Published: 2026-01-15 | Category: `cs.IT`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10676v1) | [PDF](https://arxiv.org/pdf/2601.10676v1)
+- **Enhancing Mobile Ad Hoc Networks (MANETs) with Software-Defined Networking (SDN): A Balanced Approach**
+  - Authors: Riccardo Fonti, Andrea Piroddi
+  - Published: 2026-01-15 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10556v1) | [PDF](https://arxiv.org/pdf/2601.10556v1)
+- **SDN-Driven Innovations in MANETs and IoT: A Path to Smarter Networks**
+  - Authors: Andrea Piroddi, Riccardo Fonti
+  - Published: 2026-01-15 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10544v1) | [PDF](https://arxiv.org/pdf/2601.10544v1)
+- _(See full topic page: [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md))_
 
 
 ### Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)
