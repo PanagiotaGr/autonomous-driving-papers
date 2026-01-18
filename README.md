@@ -67,8 +67,8 @@ The following research areas are tracked daily:
 ## Latest Update
 
 <!-- LATEST:START -->
-- Updated on: **2026-01-17**
-- Latest digest: `digests/2026-01-17.md`
+- Updated on: **2026-01-18**
+- Latest digest: `digests/2026-01-18.md`
 <!-- LATEST:END -->
 
 ---
@@ -78,14 +78,14 @@ The following research areas are tracked daily:
 <!-- TOPICS:START -->
 | Topic | Latest Update | Papers | Link |
 |------|--------------:|------:|------|
-| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-17 | 0 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
-| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-17 | 0 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
-| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-17 | 0 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
-| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-17 | 0 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
-| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-17 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
-| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-17 | 0 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
-| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-17 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
-| Datasets, Benchmarks & Simulation (Driving) | 2026-01-17 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
+| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-18 | 0 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
+| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-18 | 0 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
+| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-18 | 0 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
+| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-18 | 0 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
+| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-18 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
+| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-18 | 0 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
+| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-18 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
+| Datasets, Benchmarks & Simulation (Driving) | 2026-01-18 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
 <!-- TOPICS:END -->
 
 ---
@@ -137,8 +137,8 @@ Apache-2.0
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-17  
-**Daily archive:** `digests/2026-01-17.md`  
+**Last update:** 2026-01-18  
+**Daily archive:** `digests/2026-01-18.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/queries/filters._
 
