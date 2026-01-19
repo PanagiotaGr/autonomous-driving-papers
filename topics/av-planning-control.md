@@ -1,6 +1,6 @@
 # Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)
 
-**Last update:** 2026-01-18
+**Last update:** 2026-01-19
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
