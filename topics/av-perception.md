@@ -1,10 +1,251 @@
 # Autonomous Driving – Perception (2D/3D Detection, Segmentation)
 
-**Last update:** 2026-01-20
+**Last update:** 2026-01-21
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
-_No matches today._
+## Latest
+
+- **Implicit Neural Representation Facilitates Unified Universal Vision Encoding**
+  - Authors: Matthew Gwilliam, Xiao Wang, Xuefeng Hu, Zhenheng Yang
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14256v1) | [PDF](https://arxiv.org/pdf/2601.14256v1)
+- **VideoMaMa: Mask-Guided Video Matting via Generative Prior**
+  - Authors: Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14255v1) | [PDF](https://arxiv.org/pdf/2601.14255v1)
+- **Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis**
+  - Authors: Hongyuan Chen, Xingyu Chen, Youjia Zhang, Zexiang Xu, Anpei Chen
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14253v1) | [PDF](https://arxiv.org/pdf/2601.14253v1)
+- **LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**
+  - Authors: Said Taghadouini, Adrien Cavaillès, Baptiste Aubertin
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14251v1) | [PDF](https://arxiv.org/pdf/2601.14251v1)
+- **OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer**
+  - Authors: Pengze Zhang, Yanze Wu, Mengtian Li, Xu Bai, Songtao Zhao, Fulong Ye, Chong Mou, Xinghui Li et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14250v1) | [PDF](https://arxiv.org/pdf/2601.14250v1)
+- **Soft Tail-dropping for Adaptive Visual Tokenization**
+  - Authors: Zeyuan Chen, Kai Zhang, Zhuowen Tu, Yuanjun Xiong
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14246v1) | [PDF](https://arxiv.org/pdf/2601.14246v1)
+- **Q-learning with Adjoint Matching**
+  - Authors: Qiyang Li, Sergey Levine
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14234v1) | [PDF](https://arxiv.org/pdf/2601.14234v1)
+- **KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning**
+  - Authors: Egor Cherepanov, Daniil Zelezetsky, Alexey K. Kovalev, Aleksandr I. Panov
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14232v1) | [PDF](https://arxiv.org/pdf/2601.14232v1)
+- **Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**
+  - Authors: Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte, Dan Buckmaster, Philip Schneider, Chunming Qiao, Alina Vereshchaka
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14208v1) | [PDF](https://arxiv.org/pdf/2601.14208v1)
+- **Copy-Trasform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints**
+  - Authors: Rotem Gatenyo, Ohad Fried
+  - Published: 2026-01-20 | Category: `cs.GR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14207v1) | [PDF](https://arxiv.org/pdf/2601.14207v1)
+- **IIR-VLM: In-Context Instance-level Recognition for Large Vision-Language Models**
+  - Authors: Liang Shi, Wei Li, Kevin M Beussman, Lin Chen, Yun Fu
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14188v1) | [PDF](https://arxiv.org/pdf/2601.14188v1)
+- **Progressive self-supervised blind-spot denoising method for LDCT denoising**
+  - Authors: Yichao Liu, Yueyang Teng, Junwen Guo
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14180v1) | [PDF](https://arxiv.org/pdf/2601.14180v1)
+- **ASBA: A-line State Space Model and B-line Attention for Sparse Optical Doppler Tomography Reconstruction**
+  - Authors: Zhenghong Li, Wensheng Cheng, Congwu Du, Yingtian Pan, Zhaozheng Yin, Haibin Ling
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14165v1) | [PDF](https://arxiv.org/pdf/2601.14165v1)
+- **One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**
+  - Authors: Yitong Dong, Qi Zhang, Minchao Jiang, Zhiqiang Wu, Qingnan Fan, Ying Feng, Huaqi Zhang, Hujun Bao et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14161v1) | [PDF](https://arxiv.org/pdf/2601.14161v1)
+- **LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery**
+  - Authors: Shubham Pandey, Bhavin Jawade, Srirangaraj Setlur, Venu Govindaraju, Kenneth Seastedt
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14154v1) | [PDF](https://arxiv.org/pdf/2601.14154v1)
+- **TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**
+  - Authors: Bin Yu, Shijie Lian, Xiaopeng Lin, Yuliang Wei, Zhaolong Shen, Changti Wu, Yuzhuo Miao, Xinming Wang et al.
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14133v1) | [PDF](https://arxiv.org/pdf/2601.14133v1)
+- **GIC-DLC: Differentiable Logic Circuits for Hardware-Friendly Grayscale Image Compression**
+  - Authors: Till Aczel, David F. Jenny, Simon Bührer, Andreas Plesner, Antonio Di Maio, Roger Wattenhofer
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14130v1) | [PDF](https://arxiv.org/pdf/2601.14130v1)
+- **SandWorm: Event-based Visuotactile Perception with Active Vibration for Screw-Actuated Robot in Granular Media**
+  - Authors: Shoujie Li, Changqing Guo, Junhao Gong, Chenxin Liang, Wenhua Ding, Wenbo Ding
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14128v1) | [PDF](https://arxiv.org/pdf/2601.14128v1)
+- **The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning**
+  - Authors: Renmiao Chen, Yida Lu, Shiyao Cui, Xuan Ouyang, Victor Shea-Jay Huang, Shumin Zhang, Chengwei Pan, Han Qiu et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14127v1) | [PDF](https://arxiv.org/pdf/2601.14127v1)
+- **PMCE: Probabilistic Multi-Granularity Semantics with Caption-Guided Enhancement for Few-Shot Learning**
+  - Authors: Jiaying Wu, Can Gao, Jinglu Hu, Hui Li, Xiaofeng Cao, Jingcai Guo
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14111v1) | [PDF](https://arxiv.org/pdf/2601.14111v1)
+- **Diffusion-Guided Backdoor Attacks in Real-World Reinforcement Learning**
+  - Authors: Tairan Huang, Qingqing Ye, Yulin Jin, Jiawei Lian, Yi Wang, Haibo Hu
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14104v1) | [PDF](https://arxiv.org/pdf/2601.14104v1)
+- **Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing**
+  - Authors: Xiaolu Liu, Yicong Li, Qiyuan He, Jiayin Zhu, Wei Ji, Angela Yao, Jianke Zhu
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14103v1) | [PDF](https://arxiv.org/pdf/2601.14103v1)
+- **Curriculum-Based Strategies for Efficient Cross-Domain Action Recognition**
+  - Authors: Emily Kim, Allen Wu, Jessica Hodgins
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14101v1) | [PDF](https://arxiv.org/pdf/2601.14101v1)
+- **Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems**
+  - Authors: Hossein Naderi, Alireza Shojaei, Lifu Huang, Philip Agee, Kereshmeh Afsari, Abiola Akanmu
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14091v1) | [PDF](https://arxiv.org/pdf/2601.14091v1)
+- **Two-Stream temporal transformer for video action classification**
+  - Authors: Nattapong Kurpukdee, Adrian G. Bors
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14086v1) | [PDF](https://arxiv.org/pdf/2601.14086v1)
+- **DermaBench: A Clinician-Annotated Benchmark Dataset for Dermatology Visual Question Answering and Reasoning**
+  - Authors: Abdurrahim Yilmaz, Ozan Erdem, Ece Gokyayla, Ayda Acar, Burc Bugra Dagtas, Dilara Ilhan Erdil, Gulsum Gencoglan, Burak Temelkuran
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14084v1) | [PDF](https://arxiv.org/pdf/2601.14084v1)
+- **VENI: Variational Encoder for Natural Illumination**
+  - Authors: Paul Walker, James A. D. Gardner, Andreea Ardelean, William A. P. Smith, Bernhard Egger
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14079v1) | [PDF](https://arxiv.org/pdf/2601.14079v1)
+- **MooneyMaker: A Python package to create ambiguous two-tone images**
+  - Authors: Lars C. Reining, Thabo Matthies, Luisa Haussner, Rabea Turon, Thomas S. A. Wallis
+  - Published: 2026-01-20 | Category: `q-bio.NC`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14077v1) | [PDF](https://arxiv.org/pdf/2601.14077v1)
+- **Unsupervised Video Class-Incremental Learning via Deep Embedded Clustering Management**
+  - Authors: Nattapong Kurpukdee, Adrian G. Bors
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14069v1) | [PDF](https://arxiv.org/pdf/2601.14069v1)
+- **VERIDAH: Solving Enumeration Anomaly Aware Vertebra Labeling across Imaging Sequences**
+  - Authors: Hendrik Möller, Hanna Schoen, Robert Graf, Matan Atad, Nathan Molinier, Anjany Sekuboyina, Bettina K. Budai, Fabian Bamberg et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14066v1) | [PDF](https://arxiv.org/pdf/2601.14066v1)
+- **Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration**
+  - Authors: Yongcong Ye, Kai Zhang, Yanghai Zhang, Enhong Chen, Longfei Li, Jun Zhou
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14060v1) | [PDF](https://arxiv.org/pdf/2601.14060v1)
+- **POCI-Diff: Position Objects Consistently and Interactively with 3D-Layout Guided Diffusion**
+  - Authors: Andrea Rigo, Luca Stornaiuolo, Weijie Wang, Mauro Martino, Bruno Lepri, Nicu Sebe
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14056v1) | [PDF](https://arxiv.org/pdf/2601.14056v1)
+- **Decoder-Free Supervoxel GNN for Accurate Brain-Tumor Localization in Multi-Modal MRI**
+  - Authors: Andrea Protani, Marc Molina Van Den Bosch, Lorenzo Giusti, Heloisa Barbosa Da Silva, Paolo Cacace, Albert Sund Aillet, Miguel Angel Gonzalez Ballester, Friedhelm Hummel et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14055v1) | [PDF](https://arxiv.org/pdf/2601.14055v1)
+- **Vision Also You Need: Navigating Out-of-Distribution Detection with Multimodal Large Language Model**
+  - Authors: Haoran Xu, Yanlin Liu, Zizhao Tong, Jiaze Li, Kexue Fu, Yuyang Zhang, Longxiang Gao, Shuaiguang Li et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14052v1) | [PDF](https://arxiv.org/pdf/2601.14052v1)
+- **Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology**
+  - Authors: Kaiyu Wu, Pucheng Han, Hualong Zhang, Naigeng Wu, Keze Wang
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14044v1) | [PDF](https://arxiv.org/pdf/2601.14044v1)
+- **Federated Balanced Learning**
+  - Authors: Jiaze Li, Haoran Xu, Wanyi Wu, Changwei Wang, Shuaiguang Li, Jianzhong Ju, Zhenbo Luo, Jian Luan et al.
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14042v1) | [PDF](https://arxiv.org/pdf/2601.14042v1)
+- **Generalizing Abstention for Noise-Robust Learning in Medical Image Segmentation**
+  - Authors: Wesam Moustafa, Hossam Elsafty, Helen Schneider, Lorenz Sparrenberg, Rafet Sifa
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14039v1) | [PDF](https://arxiv.org/pdf/2601.14039v1)
+- **Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**
+  - Authors: Alexandre Justo Miro, Ludvig af Klinteberg, Bogdan Timus, Aron Asefaw, Ajinkya Khoche, Thomas Gustafsson, Sina Sharif Mansouri, Masoud Daneshtalab
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14038v1) | [PDF](https://arxiv.org/pdf/2601.14038v1)
+- **Likelihood-Separable Diffusion Inference for Multi-Image MRI Super-Resolution**
+  - Authors: Samuel W. Remedios, Zhangxing Bian, Shuwen Wei, Aaron Carass, Jerry L. Prince, Blake E. Dewey
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14030v1) | [PDF](https://arxiv.org/pdf/2601.14030v1)
+- **Group-Invariant Unsupervised Skill Discovery: Symmetry-aware Skill Representations for Generalizable Behavior**
+  - Authors: Junwoo Chang, Joseph Park, Roberto Horowitz, Jongmin Lee, Jongeun Choi
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14000v1) | [PDF](https://arxiv.org/pdf/2601.14000v1)
+- **SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**
+  - Authors: Jiangwei Xie, Zhang Wen, Mike Davies, Dongdong Chen
+  - Published: 2026-01-20 | Category: `eess.IV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13987v1) | [PDF](https://arxiv.org/pdf/2601.13987v1)
+- **Equivariant Learning for Unsupervised Image Dehazing**
+  - Authors: Zhang Wen, Jiangwei Xie, Dongdong Chen
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13986v1) | [PDF](https://arxiv.org/pdf/2601.13986v1)
+- **Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects**
+  - Authors: Raffaele Mazza, Ciro Natale, Pietro Falco
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13979v1) | [PDF](https://arxiv.org/pdf/2601.13979v1)
+- **FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation**
+  - Authors: Jing Zuo, Lingzhou Mu, Fan Jiang, Chengcheng Ma, Mu Xu, Yonggang Qi
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13976v1) | [PDF](https://arxiv.org/pdf/2601.13976v1)
+- **Harmonizing the Deep: A Unified Information Pipeline for Robust Marine Biodiversity Assessment Across Heterogeneous Domains**
+  - Authors: Marco Piccolo, Qiwei Han, Astrid van Toor, Joachim Vanneste
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13975v1) | [PDF](https://arxiv.org/pdf/2601.13975v1)
+- **STEC: A Reference-Free Spatio-Temporal Entropy Coverage Metric for Evaluating Sampled Video Frames**
+  - Authors: Shih-Yao Lin
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13974v1) | [PDF](https://arxiv.org/pdf/2601.13974v1)
+- **DExTeR: Weakly Semi-Supervised Object Detection with Class and Instance Experts for Medical Imaging**
+  - Authors: Adrien Meyer, Didier Mutter, Nicolas Padoy
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13954v1) | [PDF](https://arxiv.org/pdf/2601.13954v1)
+- **VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content**
+  - Authors: Shengyi Wu, Yan Hong, Shengyao Chen, Zheng Wang, Xianbing Sun, Jiahui Zhan, Jun Lan, Jianfu Zhang
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13951v1) | [PDF](https://arxiv.org/pdf/2601.13951v1)
+- **Efficient Coordination with the System-Level Shared State: An Embodied-AI Native Modular Framework**
+  - Authors: Yixuan Deng, Tongrun Wu, Donghao Wu, Zeyu Wei, Jiayuan Wang, Zhenglong Sun, Yuqing Tang, Xiaoqiang Ji
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13945v1) | [PDF](https://arxiv.org/pdf/2601.13945v1)
+- **Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning**
+  - Authors: Hongbo Bai, Yujin Zhou, Yile Wu, Chi-Min Chan, Pengcheng Wen, Kunhao Pan, Sirui Han, Yike Guo
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13942v1) | [PDF](https://arxiv.org/pdf/2601.13942v1)
+- **TrackletGPT: A Language-like GPT Framework for White Matter Tract Segmentation**
+  - Authors: Anoushkrit Goel, Simroop Singh, Ankita Joshi, Ranjeet Ranjan Jha, Chirag Ahuja, Aditya Nigam, Arnav Bhavsar
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13935v1) | [PDF](https://arxiv.org/pdf/2601.13935v1)
+- **HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop Clinical Modeling across EHR and X-Ray in Medical VLMs**
+  - Authors: Yuezhe Yang, Hao Wang, Yige Peng, Jinman Kim, Lei Bi
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13919v1) | [PDF](https://arxiv.org/pdf/2601.13919v1)
+- **On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**
+  - Authors: Pavlo Melnyk, Cuong Le, Urs Waldmann, Per-Erik Forssén, Bastian Wandt
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13913v1) | [PDF](https://arxiv.org/pdf/2601.13913v1)
+- **Towards Visually Explaining Statistical Tests with Applications in Biomedical Imaging**
+  - Authors: Masoumeh Javanbakhat, Piotr Komorowski, Dilyara Bareeva, Wei-Chang Lai, Wojciech Samek, Christoph Lippert
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13899v1) | [PDF](https://arxiv.org/pdf/2601.13899v1)
+- **OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3**
+  - Authors: Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13895v1) | [PDF](https://arxiv.org/pdf/2601.13895v1)
+- **Revisiting Multi-Task Visual Representation Learning**
+  - Authors: Shangzhe Di, Zhonghua Zhai, Weidi Xie
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13886v1) | [PDF](https://arxiv.org/pdf/2601.13886v1)
+- **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**
+  - Authors: Dongxu Zhang, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Hiajun Zhang
+  - Published: 2026-01-20 | Category: `cs.MM`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13879v1) | [PDF](https://arxiv.org/pdf/2601.13879v1)
+- **OCCAM: Class-Agnostic, Training-Free, Prior-Free and Multi-Class Object Counting**
+  - Authors: Michail Spanakis, Iason Oikonomidis, Antonis Argyros
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13871v1) | [PDF](https://arxiv.org/pdf/2601.13871v1)
+- **Probabilistic Deep Discriminant Analysis for Wind Blade Segmentation**
+  - Authors: Raül Pérez-Gonzalo, Andreas Espersen, Antonio Agudo
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13852v1) | [PDF](https://arxiv.org/pdf/2601.13852v1)
+- **DisasterVQA: A Visual Question Answering Benchmark Dataset for Disaster Scenes**
+  - Authors: Aisha Al-Mohannadi, Ayisha Firoz, Yin Yang, Muhammad Imran, Ferda Ofli
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13839v1) | [PDF](https://arxiv.org/pdf/2601.13839v1)
 
 ---
 

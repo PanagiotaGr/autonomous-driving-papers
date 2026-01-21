@@ -1,10 +1,251 @@
 # Autonomous Driving – Prediction (Trajectories, Intention, Interaction)
 
-**Last update:** 2026-01-20
+**Last update:** 2026-01-21
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
-_No matches today._
+## Latest
+
+- **Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow**
+  - Authors: Haocheng Xi, Charlie Ruan, Peiyuan Liao, Yujun Lin, Han Cai, Yilong Zhao, Shuo Yang, Kurt Keutzer et al.
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14243v1) | [PDF](https://arxiv.org/pdf/2601.14243v1)
+- **APEX-Agents**
+  - Authors: Bertie Vidgen, Austin Mann, Abby Fennelly, John Wright Stanly, Lucas Rothman, Marco Burstein, Julien Benchek, David Ostrofsky et al.
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14242v1) | [PDF](https://arxiv.org/pdf/2601.14242v1)
+- **Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression**
+  - Authors: Shaurya Mathur, Shreyas Bellary Manjunath, Nitin Kulkarni, Alina Vereshchaka
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14238v1) | [PDF](https://arxiv.org/pdf/2601.14238v1)
+- **Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**
+  - Authors: Punit Kumar, Vaibhav Saran, Divyesh Patel, Nitin Kulkarni, Alina Vereshchaka
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14228v1) | [PDF](https://arxiv.org/pdf/2601.14228v1)
+- **Deep Learning Approaches to Quantum Error Mitigation**
+  - Authors: Leonardo Placidi, Ifan Williams, Enrico Rinaldi, Daniel Mills, Cristina Cîrstoiu, Vanya Eccles, Ross Duncan
+  - Published: 2026-01-20 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14226v1) | [PDF](https://arxiv.org/pdf/2601.14226v1)
+- **InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**
+  - Authors: Matthew Y. R. Yang, Hao Bai, Ian Wu, Gene Yang, Amrith Setlur, Aviral Kumar
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14209v1) | [PDF](https://arxiv.org/pdf/2601.14209v1)
+- **Differentiated Pickup Point Offering for Emission Reduction in Last-Mile Delivery**
+  - Authors: Albina Galiullina, Wouter van Heeswijk, Tom van Woensel
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14196v1) | [PDF](https://arxiv.org/pdf/2601.14196v1)
+- **A model of errors in transformers**
+  - Authors: Suvrat Raju, Praneeth Netrapalli
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14175v1) | [PDF](https://arxiv.org/pdf/2601.14175v1)
+- **Penalizing Localized Dirichlet Energies in Low Rank Tensor Products**
+  - Authors: Paris A. Karakasis, Nicholas D. Sidiropoulos
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14173v1) | [PDF](https://arxiv.org/pdf/2601.14173v1)
+- **ConceptCaps -- a Distilled Concept Dataset for Interpretability in Music Models**
+  - Authors: Bruno Sienkiewicz, Łukasz Neumann, Mateusz Modrzejewski
+  - Published: 2026-01-20 | Category: `cs.SD`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14157v1) | [PDF](https://arxiv.org/pdf/2601.14157v1)
+- **Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models**
+  - Authors: Hyunjong Ok, Jaeho Lee
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14152v1) | [PDF](https://arxiv.org/pdf/2601.14152v1)
+- **Riemannian Liquid Spatio-Temporal Graph Network**
+  - Authors: Liangsi Lu, Jingchao Wang, Zhaorong Dai, Hanqian Liu, Yang Shi
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14115v1) | [PDF](https://arxiv.org/pdf/2601.14115v1)
+- **Learning to Explain: Supervised Token Attribution from Transformer Attention Patterns**
+  - Authors: George Mihaila
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14112v1) | [PDF](https://arxiv.org/pdf/2601.14112v1)
+- **Causal feature selection framework for stable soft sensor modeling based on time-delayed cross mapping**
+  - Authors: Shi-Shun Chen, Xiao-Yang Li, Enrico Zio
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14099v1) | [PDF](https://arxiv.org/pdf/2601.14099v1)
+- **Optimizing Energy and Data Collection in UAV-aided IoT Networks using Attention-based Multi-Objective Reinforcement Learning**
+  - Authors: Babacar Toure, Dimitrios Tsilimantos, Omid Esrafilian, Marios Kountouris
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14092v1) | [PDF](https://arxiv.org/pdf/2601.14092v1)
+- **'1'-bit Count-based Sorting Unit to Reduce Link Power in DNN Accelerators**
+  - Authors: Ruichi Han, Yizhi Chen, Tong Lei, Jordi Altayo Gonzalez, Ahmed Hemani
+  - Published: 2026-01-20 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14087v1) | [PDF](https://arxiv.org/pdf/2601.14087v1)
+- **SecureSplit: Mitigating Backdoor Attacks in Split Learning**
+  - Authors: Zhihao Dou, Dongfei Cui, Weida Wang, Anjun Gao, Yueyang Quan, Mengyao Ma, Viet Vo, Guangdong Bai et al.
+  - Published: 2026-01-20 | Category: `cs.CR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14054v1) | [PDF](https://arxiv.org/pdf/2601.14054v1)
+- **Kakugo: Distillation of Low-Resource Languages into Small Language Models**
+  - Authors: Peter Devine, Mardhiyah Sanni, Farid Adilazuarda, Julieta Gil Loizaga, Barry Haddow
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14051v1) | [PDF](https://arxiv.org/pdf/2601.14051v1)
+- **PAC-Private Responses with Adversarial Composition**
+  - Authors: Xiaochen Zhu, Mayuri Sridhar, Srinivas Devadas
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14033v1) | [PDF](https://arxiv.org/pdf/2601.14033v1)
+- **Intermittent time series forecasting: local vs global models**
+  - Authors: Stefano Damato, Nicolò Rubattu, Dario Azzimonti, Giorgio Corani
+  - Published: 2026-01-20 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14031v1) | [PDF](https://arxiv.org/pdf/2601.14031v1)
+- **Universal Approximation Theorem for Input-Connected Multilayer Perceptrons**
+  - Authors: Vugar Ismailov
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14026v1) | [PDF](https://arxiv.org/pdf/2601.14026v1)
+- **Credible CO2 Comparisons: A Machine Learning Approach to Vehicle Powertrain Assessment**
+  - Authors: Rodrigo Pereira David, Luciano Araujo Dourado Filho, Daniel Marques da Silva, João Alfredo Cal-Braz
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14022v1) | [PDF](https://arxiv.org/pdf/2601.14022v1)
+- **Auditory Brain Passage Retrieval: Cross-Sensory EEG Training for Neural Information Retrieval**
+  - Authors: Niall McGuire, Yashar Moshfeghi
+  - Published: 2026-01-20 | Category: `cs.IR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14001v1) | [PDF](https://arxiv.org/pdf/2601.14001v1)
+- **A universal linearized subspace refinement framework for neural networks**
+  - Authors: Wenbo Cao, Weiwei Zhang
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13989v1) | [PDF](https://arxiv.org/pdf/2601.13989v1)
+- **Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval**
+  - Authors: Joaquín Polonuer, Lucas Vittor, Iñaki Arango, Ayush Noori, David A. Clifton, Luciano Del Corro, Marinka Zitnik
+  - Published: 2026-01-20 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13969v1) | [PDF](https://arxiv.org/pdf/2601.13969v1)
+- **RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**
+  - Authors: Cheol-Hui Lee, Hwa-Yeon Lee, Dong-Joo Kim
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13964v1) | [PDF](https://arxiv.org/pdf/2601.13964v1)
+- **Differentiable Logic Synthesis: Spectral Coefficient Selection via Sinkhorn-Constrained Composition**
+  - Authors: Gorgi Pavlov
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13953v1) | [PDF](https://arxiv.org/pdf/2601.13953v1)
+- **Towards Effective Negation Modeling in Joint Audio-Text Models for Music**
+  - Authors: Yannis Vasilakis, Rachel Bittner, Johan Pauwels
+  - Published: 2026-01-20 | Category: `cs.SD`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13931v1) | [PDF](https://arxiv.org/pdf/2601.13931v1)
+- **SCG With Your Phone: Diagnosis of Rhythmic Spectrum Disorders in Field Conditions**
+  - Authors: Peter Golenderov, Yaroslav Matushenko, Anastasia Tushina, Michal Barodkin
+  - Published: 2026-01-20 | Category: `q-bio.QM`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13926v1) | [PDF](https://arxiv.org/pdf/2601.13926v1)
+- **Asymmetric regularization mechanism for GAN training with Variational Inequalities**
+  - Authors: Spyridon C. Giagtzoglou, Mark H. M. Winands, Barbara Franci
+  - Published: 2026-01-20 | Category: `cs.GT`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13920v1) | [PDF](https://arxiv.org/pdf/2601.13920v1)
+- **TractRLFusion: A GPT-Based Multi-Critic Policy Fusion Framework for Fiber Tractography**
+  - Authors: Ankita Joshi, Ashutosh Sharma, Anoushkrit Goel, Ranjeet Ranjan Jha, Chirag Ahuja, Arnav Bhavsar, Aditya Nigam
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13897v1) | [PDF](https://arxiv.org/pdf/2601.13897v1)
+- **Multi-Objective Hierarchical Optimization with Large Language Models**
+  - Authors: Andrej Schwanke, Lyubomir Ivanov, David Salinas, Frank Hutter, Arber Zela
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13892v1) | [PDF](https://arxiv.org/pdf/2601.13892v1)
+- **Unified Unbiased Variance Estimation for MMD: Robust Finite-Sample Performance with Imbalanced Data and Exact Acceleration under Null and Alternative Hypotheses**
+  - Authors: Shijie Zhong, Jiangfeng Fu, Yikun Yang
+  - Published: 2026-01-20 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13874v1) | [PDF](https://arxiv.org/pdf/2601.13874v1)
+- **Inverting Self-Organizing Maps: A Unified Activation-Based Framework**
+  - Authors: Alessandro Londei, Matteo Benati, Denise Lanzieri, Vittorio Loreto
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13851v1) | [PDF](https://arxiv.org/pdf/2601.13851v1)
+- **Co-Initialization of Control Filter and Secondary Path via Meta-Learning for Active Noise Control**
+  - Authors: Ziyi Yang, Li Rao, Zhengding Luo, Dongyuan Shi, Qirui Huang, Woon-Seng Gan
+  - Published: 2026-01-20 | Category: `eess.AS`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13849v1) | [PDF](https://arxiv.org/pdf/2601.13849v1)
+- **Virtual Urbanism: An AI-Driven Framework for Quantifying Urban Identity. A Tokyo-Based Pilot Study Using Diffusion-Generated Synthetic Environments**
+  - Authors: Glinskaya Maria
+  - Published: 2026-01-20 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13846v1) | [PDF](https://arxiv.org/pdf/2601.13846v1)
+- **Optimal L2 Regularization in High-dimensional Continual Linear Regression**
+  - Authors: Gilad Karpel, Edward Moroshko, Ran Levinstein, Ron Meir, Daniel Soudry, Itay Evron
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13844v1) | [PDF](https://arxiv.org/pdf/2601.13844v1)
+- **FastGHA: Generalized Few-Shot 3D Gaussian Head Avatars with Real-Time Animation**
+  - Authors: Xinya Ji, Sebastian Weiss, Manuel Kansy, Jacek Naruniec, Xun Cao, Barbara Solenthaler, Derek Bradley
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13837v1) | [PDF](https://arxiv.org/pdf/2601.13837v1)
+- **FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs**
+  - Authors: Qian Chen, Jinlan Fu, Changsong Li, See-Kiong Ng, Xipeng Qiu
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13836v1) | [PDF](https://arxiv.org/pdf/2601.13836v1)
+- **ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**
+  - Authors: Xiaohong Yang, Tong Xie, Minghui Liwang, Chikai Shang, Yang Lu, Zhenzhen Jiao, Liqun Fu, Seyyedali Hosseinalipour
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13824v1) | [PDF](https://arxiv.org/pdf/2601.13824v1)
+- **Device Association and Resource Allocation for Hierarchical Split Federated Learning in Space-Air-Ground Integrated Network**
+  - Authors: Haitao Zhao, Xiaoyu Tang, Bo Xu, Jinlong Sun, Linghao Zhang
+  - Published: 2026-01-20 | Category: `cs.DC`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13817v1) | [PDF](https://arxiv.org/pdf/2601.13817v1)
+- **Discriminant Learning-based Colorspace for Blade Segmentation**
+  - Authors: Raül Pérez-Gonzalo, Andreas Espersen, Antonio Agudo
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13816v1) | [PDF](https://arxiv.org/pdf/2601.13816v1)
+- **GuideTouch: An Obstacle Avoidance Device for Visually Impaired**
+  - Authors: Timofei Kozlov, Artem Trandofilov, Georgii Gazaryan, Issatay Tokmurziyev, Miguel Altamirano Cabrera, Dzmitry Tsetserukou
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13813v1) | [PDF](https://arxiv.org/pdf/2601.13813v1)
+- **DroneVLA: VLA based Aerial Manipulation**
+  - Authors: Fawad Mehboob, Monijesu James, Amir Habel, Jeffrin Sam, Miguel Altamirano Cabrera, Dzmitry Tsetserukou
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13809v1) | [PDF](https://arxiv.org/pdf/2601.13809v1)
+- **Knowledge Graph-Assisted LLM Post-Training for Enhanced Legal Reasoning**
+  - Authors: Dezhao Song, Guglielmo Bonifazi, Frank Schilder, Jonathan Richard Schwarz
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13806v1) | [PDF](https://arxiv.org/pdf/2601.13806v1)
+- **HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**
+  - Authors: Yuhua Jin, Nikita Kuzmin, Georgii Demianchuk, Mariya Lezina, Fawad Mehboob, Issatay Tokmurziyev, Miguel Altamirano Cabrera, Muhammad Ahsan Mustafa et al.
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13801v1) | [PDF](https://arxiv.org/pdf/2601.13801v1)
+- **Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders**
+  - Authors: Kai Wittenmayer, Sukrut Rao, Amin Parchami-Araghi, Bernt Schiele, Jonas Fischer
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13798v1) | [PDF](https://arxiv.org/pdf/2601.13798v1)
+- **PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval**
+  - Authors: Gabriele Serussi, David Vainshtein, Jonathan Kouchly, Dotan Di Castro, Chaim Baskin
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13797v1) | [PDF](https://arxiv.org/pdf/2601.13797v1)
+- **PAtt: A Pattern Attention Network for ETA Prediction Using Historical Speed Profiles**
+  - Authors: ByeoungDo Kim, JunYeop Na, Kyungwook Tak, JunTae Kim, DongHyeon Kim, Duckky Kim
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13793v1) | [PDF](https://arxiv.org/pdf/2601.13793v1)
+- **Principled Latent Diffusion for Graphs via Laplacian Autoencoders**
+  - Authors: Antoine Siraudin, Christopher Morris
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13780v1) | [PDF](https://arxiv.org/pdf/2601.13780v1)
+- **Sample Efficient Learning of Body-Environment Interaction of an Under-Actuated System**
+  - Authors: Zvi Chapnik, Yizhar Or, Shai Revzen
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13777v1) | [PDF](https://arxiv.org/pdf/2601.13777v1)
+- **Orthogonium : A Unified, Efficient Library of Orthogonal and 1-Lipschitz Building Blocks**
+  - Authors: Thibaut Boissin, Franck Mamalet, Valentin Lafargue, Mathieu Serrurier
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13776v1) | [PDF](https://arxiv.org/pdf/2601.13776v1)
+- **Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance**
+  - Authors: Mostapha Benhenda
+  - Published: 2026-01-20 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13770v1) | [PDF](https://arxiv.org/pdf/2601.13770v1)
+- **vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting**
+  - Authors: Wenzhen Yue, Ruohao Guo, Ji Shi, Zihan Hao, Shiyu Hu, Xianghua Ying
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13768v1) | [PDF](https://arxiv.org/pdf/2601.13768v1)
+- **HiT: History-Injection Transformers for Onboard Continuous Flood Change Detection**
+  - Authors: Daniel Kyselica, Jonáš Herec, Oliver Kutis, Rado Pitoňák
+  - Published: 2026-01-20 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13751v1) | [PDF](https://arxiv.org/pdf/2601.13751v1)
+- **Pro-AI Bias in Large Language Models**
+  - Authors: Benaya Trabelsi, Jonathan Shaki, Sarit Kraus
+  - Published: 2026-01-20 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13749v1) | [PDF](https://arxiv.org/pdf/2601.13749v1)
+- **EEG-Titans: Long-Horizon Seizure Forecasting via Dual-Branch Attention and Neural Memory**
+  - Authors: Tien-Dat Pham, Xuan-The Tran
+  - Published: 2026-01-20 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13748v1) | [PDF](https://arxiv.org/pdf/2601.13748v1)
+- **Variational Dual-path Attention Network for CSI-Based Gesture Recognition**
+  - Authors: N. Zhang
+  - Published: 2026-01-20 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13745v1) | [PDF](https://arxiv.org/pdf/2601.13745v1)
+- **RIM Hand : A Robotic Hand with an Accurate Carpometacarpal Joint and Nitinol-Supported Skeletal Structure**
+  - Authors: Joon Lee, Jeongyoon Han, Doyoung Kim, Seokhwan Jeong
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13737v1) | [PDF](https://arxiv.org/pdf/2601.13737v1)
+- **SUNSET -- A Sensor-fUsioN based semantic SegmEnTation exemplar for ROS-based self-adaptation**
+  - Authors: Andreas Wiedholz, Rafael Paintner, Julian Gleißner, Alwin Hoffmann, Tobias Huber
+  - Published: 2026-01-20 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.13732v1) | [PDF](https://arxiv.org/pdf/2601.13732v1)
 
 ---
 
