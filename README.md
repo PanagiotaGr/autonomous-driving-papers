@@ -67,8 +67,8 @@ The following research areas are tracked daily:
 ## Latest Update
 
 <!-- LATEST:START -->
-- Updated on: **2026-01-21**
-- Latest digest: `digests/2026-01-21.md`
+- Updated on: **2026-01-22**
+- Latest digest: `digests/2026-01-22.md`
 <!-- LATEST:END -->
 
 ---
@@ -78,14 +78,14 @@ The following research areas are tracked daily:
 <!-- TOPICS:START -->
 | Topic | Latest Update | Papers | Link |
 |------|--------------:|------:|------|
-| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-21 | 60 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
-| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-21 | 60 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
-| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-21 | 23 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
-| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-21 | 8 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
-| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-21 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
-| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-21 | 9 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
-| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-21 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
-| Datasets, Benchmarks & Simulation (Driving) | 2026-01-21 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
+| Autonomous Driving – Perception (2D/3D Detection, Segmentation) | 2026-01-22 | 60 | [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md) |
+| Autonomous Driving – Prediction (Trajectories, Intention, Interaction) | 2026-01-22 | 60 | [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md) |
+| Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy) | 2026-01-22 | 16 | [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md) |
+| BEV & Occupancy (BEVPerception, Occupancy Networks, 4D) | 2026-01-22 | 2 | [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md) |
+| Mapping, Localization & HD Maps (AV SLAM / Map Learning) | 2026-01-22 | 0 | [Mapping, Localization & HD Maps (AV SLAM / Map Learning)](topics/av-mapping-localization.md) |
+| V2X / Cooperative Perception (V2V, V2I, Sensor Sharing) | 2026-01-22 | 2 | [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md) |
+| Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal) | 2026-01-22 | 0 | [Safety, Robustness & Verification (Uncertainty, OOD, Adversarial, Formal)](topics/av-safety-robustness.md) |
+| Datasets, Benchmarks & Simulation (Driving) | 2026-01-22 | 0 | [Datasets, Benchmarks & Simulation (Driving)](topics/av-datasets-sim.md) |
 <!-- TOPICS:END -->
 
 ---
@@ -137,8 +137,8 @@ Apache-2.0
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-21  
-**Daily archive:** `digests/2026-01-21.md`  
+**Last update:** 2026-01-22  
+**Daily archive:** `digests/2026-01-22.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/queries/filters._
 
@@ -155,69 +155,65 @@ _Auto-generated. Edit `config.yml` to change topics/queries/filters._
 
 ### Autonomous Driving – Perception (2D/3D Detection, Segmentation)
 
-- **Implicit Neural Representation Facilitates Unified Universal Vision Encoding**
-  - Authors: Matthew Gwilliam, Xiao Wang, Xuefeng Hu, Zhenheng Yang
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14256v1) | [PDF](https://arxiv.org/pdf/2601.14256v1)
-- **VideoMaMa: Mask-Guided Video Matting via Generative Prior**
-  - Authors: Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14255v1) | [PDF](https://arxiv.org/pdf/2601.14255v1)
-- **Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis**
-  - Authors: Hongyuan Chen, Xingyu Chen, Youjia Zhang, Zexiang Xu, Anpei Chen
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14253v1) | [PDF](https://arxiv.org/pdf/2601.14253v1)
+- **APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping**
+  - Authors: Jiwon Kang, Yeji Choi, JoungBin Lee, Wooseok Jang, Jinhyeok Choi, Taekeun Kang, Yongjae Park, Myungin Kim et al.
+  - Published: 2026-01-21 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15288v1) | [PDF](https://arxiv.org/pdf/2601.15288v1)
+- **Towards Understanding Best Practices for Quantization of Vision-Language Models**
+  - Authors: Gautom Das, Vincent La, Ethan Lau, Abhinav Shrivastava, Matthew Gwilliam
+  - Published: 2026-01-21 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15287v1) | [PDF](https://arxiv.org/pdf/2601.15287v1)
+- **Iterative Refinement Improves Compositional Image Generation**
+  - Authors: Shantanu Jaiswal, Mihir Prabhudesai, Nikash Bhardwaj, Zheyang Qin, Amir Zadeh, Chuan Li, Katerina Fragkiadaki, Deepak Pathak
+  - Published: 2026-01-21 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15286v1) | [PDF](https://arxiv.org/pdf/2601.15286v1)
 - _(See full topic page: [Autonomous Driving – Perception (2D/3D Detection, Segmentation)](topics/av-perception.md))_
 
 
 ### Autonomous Driving – Prediction (Trajectories, Intention, Interaction)
 
-- **Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow**
-  - Authors: Haocheng Xi, Charlie Ruan, Peiyuan Liao, Yujun Lin, Han Cai, Yilong Zhao, Shuo Yang, Kurt Keutzer et al.
-  - Published: 2026-01-20 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14243v1) | [PDF](https://arxiv.org/pdf/2601.14243v1)
-- **APEX-Agents**
-  - Authors: Bertie Vidgen, Austin Mann, Abby Fennelly, John Wright Stanly, Lucas Rothman, Marco Burstein, Julien Benchek, David Ostrofsky et al.
-  - Published: 2026-01-20 | Category: `cs.CL`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14242v1) | [PDF](https://arxiv.org/pdf/2601.14242v1)
-- **Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression**
-  - Authors: Shaurya Mathur, Shreyas Bellary Manjunath, Nitin Kulkarni, Alina Vereshchaka
-  - Published: 2026-01-20 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14238v1) | [PDF](https://arxiv.org/pdf/2601.14238v1)
+- **MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs**
+  - Authors: Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen
+  - Published: 2026-01-21 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15279v1) | [PDF](https://arxiv.org/pdf/2601.15279v1)
+- **Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?**
+  - Authors: Felix Schur, Niklas Pfister, Peng Ding, Sach Mukherjee, Jonas Peters
+  - Published: 2026-01-21 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15254v1) | [PDF](https://arxiv.org/pdf/2601.15254v1)
+- **Recommending Best Paper Awards for ML/AI Conferences via the Isotonic Mechanism**
+  - Authors: Garrett G. Wen, Buxin Su, Natalie Collina, Zhun Deng, Weijie Su
+  - Published: 2026-01-21 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15249v1) | [PDF](https://arxiv.org/pdf/2601.15249v1)
 - _(See full topic page: [Autonomous Driving – Prediction (Trajectories, Intention, Interaction)](topics/av-prediction.md))_
 
 
 ### Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)
 
-- **The Impact of Interference Cognition on the Reliability and Capacity of Industrial Wireless Communications**
-  - Authors: Yichen Guo, Tao Peng, Yujie Zhao, Yijing Niu, Wenbo Wang
-  - Published: 2026-01-20 | Category: `eess.SY`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14164v1) | [PDF](https://arxiv.org/pdf/2601.14164v1)
-- **A flexible language model-assisted electronic design automation framework**
-  - Authors: Cristian Sestito, Panagiota Kontou, Pratibha Verma, Atish Dixit, Alexandros D. Keros, Michael O'Boyle, Christos-Savvas Bouganis, Themis Prodromakis
-  - Published: 2026-01-20 | Category: `eess.SY`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14098v1) | [PDF](https://arxiv.org/pdf/2601.14098v1)
-- **Data-Driven Safe Output Regulation of Strict-Feedback Linear Systems with Input Delay**
-  - Authors: Zhenxu Zhao, Ji Wang, Weiyao Lan
-  - Published: 2026-01-20 | Category: `eess.SY`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14089v1) | [PDF](https://arxiv.org/pdf/2601.14089v1)
+- **TTCBF: A Truncated Taylor Control Barrier Function for High-Order Safety Constraints**
+  - Authors: Jianye Xu, Bassam Alrifaee
+  - Published: 2026-01-21 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15196v1) | [PDF](https://arxiv.org/pdf/2601.15196v1)
+- **Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**
+  - Authors: Natanon Tongamrak, Kannapha Amaruchkul, Wijarn Wangdee, Jitkomut Songsiri
+  - Published: 2026-01-21 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15135v1) | [PDF](https://arxiv.org/pdf/2601.15135v1)
+- **Instantaneous Frequency in Power Systems using the Teager-Kaiser Energy Operator**
+  - Authors: A. Vaca, J. Gutierrez Florensa, F. Milano
+  - Published: 2026-01-21 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15099v1) | [PDF](https://arxiv.org/pdf/2601.15099v1)
 - _(See full topic page: [Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)](topics/av-planning-control.md))_
 
 
 ### BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)
 
-- **Facial Spatiotemporal Graphs: Leveraging the 3D Facial Surface for Remote Physiological Measurement**
-  - Authors: Sam Cantrill, David Ahmedt-Aristizabal, Lars Petersson, Hanna Suominen, Mohammad Ali Armin
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.13724v1) | [PDF](https://arxiv.org/pdf/2601.13724v1)
-- **Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search**
-  - Authors: Xinlei Yin, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.13719v1) | [PDF](https://arxiv.org/pdf/2601.13719v1)
-- **MVGD-Net: A Novel Motion-aware Video Glass Surface Detection Network**
-  - Authors: Yiwei Lu, Hao Huang, Tao Yan
-  - Published: 2026-01-20 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.13715v1) | [PDF](https://arxiv.org/pdf/2601.13715v1)
+- **HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**
+  - Authors: Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu
+  - Published: 2026-01-21 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14724v1) | [PDF](https://arxiv.org/pdf/2601.14724v1)
+- **Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic Segmentation**
+  - Authors: Yiyang Fu, Hui Li, Wangyu Wu
+  - Published: 2026-01-21 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14718v1) | [PDF](https://arxiv.org/pdf/2601.14718v1)
 - _(See full topic page: [BEV & Occupancy (BEVPerception, Occupancy Networks, 4D)](topics/av-bev-occupancy.md))_
 
 
@@ -228,18 +224,14 @@ _No matches today._
 
 ### V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)
 
-- **Storage-Rate Trade-off in A-XPIR**
-  - Authors: Mohamed Nomeir, Sennur Ulukus
-  - Published: 2026-01-20 | Category: `cs.IT`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14202v1) | [PDF](https://arxiv.org/pdf/2601.14202v1)
-- **Communication Technologies for Intelligent Transportation Systems: From Railways to UAVs and Beyond**
-  - Authors: Shrief Rizkalla, Adrian Kliks, Nila Bagheri, Miguel A. Bellido-Manganell, Aniruddha Chandra, Anja Dakic, Laura Finarelli, Davy Gaillot et al.
-  - Published: 2026-01-20 | Category: `cs.NI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14106v1) | [PDF](https://arxiv.org/pdf/2601.14106v1)
-- **MANATEE: A DevOps Platform for xApp Lifecycle Management and Testing in Open RAN**
-  - Authors: Sofia Montebugnoli, Leonardo Bonati, Andrea Sabbioni, Luca Foschini, Paolo Bellavista, Salvatore D'Oro, Michele Polese, Tommaso Melodia
-  - Published: 2026-01-20 | Category: `cs.NI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14009v1) | [PDF](https://arxiv.org/pdf/2601.14009v1)
+- **Economic feasibility of virtual operators in 5G via network slicing**
+  - Authors: Erwin J. Sacoto-Cabrera, Luis Guijarro, Jose R. Vidal, Vicent Pla
+  - Published: 2026-01-21 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15103v1) | [PDF](https://arxiv.org/pdf/2601.15103v1)
+- **5G NR Non-Terrestrial Networks: Open Challenges for Full-Stack Protocol Design**
+  - Authors: Francesco Rossato, Mattia Figaro, Alessandro Traspadini, Takayuki Shimizu, Chinmay Mahabal, Sanjeewa Herath, Chunghan Lee, Dogan Kutay Pekcan et al.
+  - Published: 2026-01-21 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.14883v1) | [PDF](https://arxiv.org/pdf/2601.14883v1)
 - _(See full topic page: [V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)](topics/av-v2x-cooperative.md))_
 
 
