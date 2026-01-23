@@ -1,251 +1,207 @@
 # Autonomous Driving – Prediction (Trajectories, Intention, Interaction)
 
-**Last update:** 2026-01-22
+**Last update:** 2026-01-23
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
 ## Latest
 
-- **MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs**
-  - Authors: Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15279v1) | [PDF](https://arxiv.org/pdf/2601.15279v1)
-- **Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?**
-  - Authors: Felix Schur, Niklas Pfister, Peng Ding, Sach Mukherjee, Jonas Peters
-  - Published: 2026-01-21 | Category: `stat.ML`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15254v1) | [PDF](https://arxiv.org/pdf/2601.15254v1)
-- **Recommending Best Paper Awards for ML/AI Conferences via the Isotonic Mechanism**
-  - Authors: Garrett G. Wen, Buxin Su, Natalie Collina, Zhun Deng, Weijie Su
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15249v1) | [PDF](https://arxiv.org/pdf/2601.15249v1)
-- **Multi-context principal component analysis**
-  - Authors: Kexin Wang, Salil Bhate, João M. Pereira, Joe Kileel, Matylda Figlerowicz, Anna Seigal
-  - Published: 2026-01-21 | Category: `stat.ML`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15239v1) | [PDF](https://arxiv.org/pdf/2601.15239v1)
-- **The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models**
-  - Authors: Zanlin Ni, Shenzhi Wang, Yang Yue, Tianyu Yu, Weilin Zhao, Yeguo Hua, Tianyi Chen, Jun Song et al.
-  - Published: 2026-01-21 | Category: `cs.CL`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15165v1) | [PDF](https://arxiv.org/pdf/2601.15165v1)
-- **Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data**
-  - Authors: Yuval Ran-Milo, Yotam Alexander, Shahar Mendel, Nadav Cohen
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15158v1) | [PDF](https://arxiv.org/pdf/2601.15158v1)
-- **CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning**
-  - Authors: Tianshi Xu, Yuteng Chen, Meng Li
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15141v1) | [PDF](https://arxiv.org/pdf/2601.15141v1)
-- **Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation**
-  - Authors: Haonan Yuan, Qingyun Sun, Jiacheng Tao, Xingcheng Fu, Jianxin Li
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15124v1) | [PDF](https://arxiv.org/pdf/2601.15124v1)
-- **WavLink: Compact Audio--Text Embeddings with a Global Whisper Token**
-  - Authors: Gokul Karthik Kumar, Ludovick Lepauloux, Hakim Hacid
-  - Published: 2026-01-21 | Category: `cs.SD`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15118v1) | [PDF](https://arxiv.org/pdf/2601.15118v1)
-- **Auditing Language Model Unlearning via Information Decomposition**
-  - Authors: Anmol Goel, Alan Ritter, Iryna Gurevych
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15111v1) | [PDF](https://arxiv.org/pdf/2601.15111v1)
-- **One scale to rule them all: interpretable multi-scale Deep Learning for predicting cell survival after proton and carbon ion irradiation**
-  - Authors: Giulio Bordieri, Giorgio Cartechini, Anna Bianchi, Anna Selva, Valeria Conte, Marta Missiaggia, Francesco G. Cordoni
-  - Published: 2026-01-21 | Category: `physics.bio-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15106v1) | [PDF](https://arxiv.org/pdf/2601.15106v1)
-- **Field-Space Autoencoder for Scalable Climate Emulators**
-  - Authors: Johannes Meuer, Maximilian Witte, Étiénne Plésiat, Thomas Ludwig, Christopher Kadow
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15102v1) | [PDF](https://arxiv.org/pdf/2601.15102v1)
-- **Memory Retention Is Not Enough to Master Memory Tasks in Reinforcement Learning**
-  - Authors: Oleg Shchendrigin, Egor Cherepanov, Alexey K. Kovalev, Aleksandr I. Panov
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15086v1) | [PDF](https://arxiv.org/pdf/2601.15086v1)
-- **Bangla Music Genre Classification Using Bidirectional LSTMS**
-  - Authors: Muntakimur Rahaman, Md Mahmudul Hoque, Md Mehedi Hassain
-  - Published: 2026-01-21 | Category: `cs.SD`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15083v1) | [PDF](https://arxiv.org/pdf/2601.15083v1)
-- **LoRAP: Low-Rank Aggregation Prompting for Quantized Graph Neural Networks Training**
-  - Authors: Chenyu Liu, Haige Li, Luca Rossi
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15079v1) | [PDF](https://arxiv.org/pdf/2601.15079v1)
-- **Multi-Agent Constraint Factorization Reveals Latent Invariant Solution Structure**
-  - Authors: Christopher Scofield
-  - Published: 2026-01-21 | Category: `cs.CL`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15077v1) | [PDF](https://arxiv.org/pdf/2601.15077v1)
-- **SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles**
-  - Authors: Srinath Srinivasan, Tim Menzies, Marcelo D'Amorim
-  - Published: 2026-01-21 | Category: `cs.SE`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15074v1) | [PDF](https://arxiv.org/pdf/2601.15074v1)
-- **HyperNet-Adaptation for Diffusion-Based Test Case Generation**
-  - Authors: Oliver Weißl, Vincenzo Riccio, Severin Kacianka, Andrea Stocco
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15041v1) | [PDF](https://arxiv.org/pdf/2601.15041v1)
-- **A Curriculum-Based Deep Reinforcement Learning Framework for the Electric Vehicle Routing Problem**
-  - Authors: Mertcan Daysalilar, Fuat Uyguroglu, Gabriel Nicolosi, Adam Meyers
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15038v1) | [PDF](https://arxiv.org/pdf/2601.15038v1)
-- **Factorizable joint shift revisited**
-  - Authors: Dirk Tasche
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15036v1) | [PDF](https://arxiv.org/pdf/2601.15036v1)
-- **Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control**
-  - Authors: Jannis Becktepe, Aleksandra Franz, Nils Thuerey, Sebastian Peitz
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15015v1) | [PDF](https://arxiv.org/pdf/2601.15015v1)
-- **Efficient and Minimax-optimal In-context Nonparametric Regression with Transformers**
-  - Authors: Michelle Ching, Ioana Popescu, Nico Smith, Tianyi Ma, William G. Underwood, Richard J. Samworth
-  - Published: 2026-01-21 | Category: `stat.ML`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15014v1) | [PDF](https://arxiv.org/pdf/2601.15014v1)
-- **RadixMLP -- Intra-batch Deduplication for Causal Transformers**
-  - Authors: Michael Feil, Julius Lipp
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15013v1) | [PDF](https://arxiv.org/pdf/2601.15013v1)
-- **Lineup Regularized Adjusted Plus-Minus (L-RAPM): Basketball Lineup Ratings with Informed Priors**
-  - Authors: Christos Petridis, Konstantinos Pelechrinis
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15000v1) | [PDF](https://arxiv.org/pdf/2601.15000v1)
-- **Fine-Grained Traceability for Transparent ML Pipelines**
-  - Authors: Liping Chen, Mujie Liu, Haytham Fayek
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14971v1) | [PDF](https://arxiv.org/pdf/2601.14971v1)
-- **InstructTime++: Time Series Classification with Multimodal Language Modeling via Implicit Feature Enhancement**
-  - Authors: Mingyue Cheng, Xiaoyu Tao, Huajian Zhang, Qi Liu, Enhong Chen
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14968v1) | [PDF](https://arxiv.org/pdf/2601.14968v1)
-- **Improving Regret Approximation for Unsupervised Dynamic Environment Generation**
-  - Authors: Harry Mead, Bruno Lacerda, Jakob Foerster, Nick Hawes
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14957v1) | [PDF](https://arxiv.org/pdf/2601.14957v1)
-- **Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features**
-  - Authors: Han Li, Hua Sun
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14954v1) | [PDF](https://arxiv.org/pdf/2601.14954v1)
-- **Communication-Efficient Multi-Modal Edge Inference via Uncertainty-Aware Distributed Learning**
-  - Authors: Hang Zhao, Hongru Li, Dongfang Xu, Shenghui Song, Khaled B. Letaief
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14942v1) | [PDF](https://arxiv.org/pdf/2601.14942v1)
-- **Tailoring Adverse Event Prediction in Type 1 Diabetes with Patient-Specific Deep Learning Models**
-  - Authors: Giorgia Rigamonti, Mirko Paolo Barbato, Davide Marelli, Paolo Napoletano
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14917v1) | [PDF](https://arxiv.org/pdf/2601.14917v1)
-- **What Makes Low-Bit Quantization-Aware Training Work for Reasoning LLMs? A Systematic Study**
-  - Authors: Keyu Lv, Manyi Zhang, Xiaobo Xia, Jingchen Ni, Shannan Yan, Xianzhi Yu, Lu Hou, Chun Yuan et al.
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14888v1) | [PDF](https://arxiv.org/pdf/2601.14888v1)
-- **Finite-Sample Inference for Sparsely Permuted Linear Regression**
-  - Authors: Hirofumi Ota, Masaaki Imaizumi
-  - Published: 2026-01-21 | Category: `math.ST`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14872v1) | [PDF](https://arxiv.org/pdf/2601.14872v1)
-- **Strategic Doctrine Language Models (sdLM): A Learning-System Framework for Doctrinal Consistency and Geopolitical Forecasting**
-  - Authors: Olaf Yunus Laitinen Imanov, Taner Yilmaz, Derya Umut Kulali
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14862v1) | [PDF](https://arxiv.org/pdf/2601.14862v1)
-- **Adaptive Exponential Integration for Stable Gaussian Mixture Black-Box Variational Inference**
-  - Authors: Baojun Che, Yifan Chen, Daniel Zhengyu Huang, Xinying Mao, Weijie Wang
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14855v1) | [PDF](https://arxiv.org/pdf/2601.14855v1)
-- **POTR: Post-Training 3DGS Compression**
-  - Authors: Bert Ramlot, Martijn Courteaux, Peter Lambert, Glenn Van Wallendael
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14821v1) | [PDF](https://arxiv.org/pdf/2601.14821v1)
-- **Statistical Learning Theory for Distributional Classification**
-  - Authors: Christian Fiedler
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14818v1) | [PDF](https://arxiv.org/pdf/2601.14818v1)
-- **Learning and extrapolating scale-invariant processes**
-  - Authors: Anaclara Alvez-Canepa, Cyril Furtlehner, François Landes
-  - Published: 2026-01-21 | Category: `cond-mat.dis-nn`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14810v1) | [PDF](https://arxiv.org/pdf/2601.14810v1)
-- **Stochastic Decision-Making Framework for Human-Robot Collaboration in Industrial Applications**
-  - Authors: Muhammad Adel Yusuf, Ali Nasir, Zeeshan Hameed Khan
-  - Published: 2026-01-21 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14809v1) | [PDF](https://arxiv.org/pdf/2601.14809v1)
-- **Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes**
-  - Authors: Tobias Weißberg, Weikang Wang, Paul Roetzer, Nafie El Amrani, Florian Bernard
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14804v1) | [PDF](https://arxiv.org/pdf/2601.14804v1)
-- **LocBAM: Advancing 3D Patch-Based Image Segmentation by Integrating Location Contex**
-  - Authors: Donnate Hooft, Stefan M. Fischer, Cosmin Bercea, Jan C. Peeken, Julia A. Schnabel
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14802v1) | [PDF](https://arxiv.org/pdf/2601.14802v1)
-- **UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**
-  - Authors: Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14799v1) | [PDF](https://arxiv.org/pdf/2601.14799v1)
-- **Reflecting in the Reflection: Integrating a Socratic Questioning Framework into Automated AI-Based Question Generation**
-  - Authors: Ondřej Holub, Essi Ryymin, Rodrigo Alves
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14798v1) | [PDF](https://arxiv.org/pdf/2601.14798v1)
-- **UniRoute: Unified Routing Mixture-of-Experts for Modality-Adaptive Remote Sensing Change Detection**
-  - Authors: Qingling Shu, Sibao Chen, Wei Lu, Zhihui You, Chengzhuang Liu
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14797v1) | [PDF](https://arxiv.org/pdf/2601.14797v1)
-- **RANDSMAPs: Random-Feature/multi-Scale Neural Decoders with Mass Preservation**
-  - Authors: Dimitrios G. Patsatzis, Alessandro Della Pia, Lucia Russo, Constantinos Siettos
-  - Published: 2026-01-21 | Category: `math.NA`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14794v1) | [PDF](https://arxiv.org/pdf/2601.14794v1)
-- **Robustness of Mixtures of Experts to Feature Noise**
-  - Authors: Dong Sun, Rahul Nittala, Rebekka Burkholz
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14792v1) | [PDF](https://arxiv.org/pdf/2601.14792v1)
-- **Synthetic Data Augmentation for Multi-Task Chinese Porcelain Classification: A Stable Diffusion Approach**
-  - Authors: Ziyao Ling, Silvia Mirri, Paola Salomoni, Giovanni Delnevo
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14791v1) | [PDF](https://arxiv.org/pdf/2601.14791v1)
-- **Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation**
-  - Authors: Yifei Liu, Changxing Ding, Ling Guo, Huaiguang Jiang, Qiong Cao
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14788v1) | [PDF](https://arxiv.org/pdf/2601.14788v1)
-- **FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**
-  - Authors: Jiaxuan Liu, Yang Xiang, Han Zhao, Xiangang Li, Zhenhua Ling
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14777v1) | [PDF](https://arxiv.org/pdf/2601.14777v1)
-- **M2I2HA: A Multi-modal Object Detection Method Based on Intra- and Inter-Modal Hypergraph Attention**
-  - Authors: Xiaofan Yang, Yubin Liu, Wei Pan, Guoqing Chu, Junming Zhang, Jie Zhao, Zhuoqi Man, Xuanming Cao
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14776v1) | [PDF](https://arxiv.org/pdf/2601.14776v1)
-- **Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**
-  - Authors: Keita Takeda, Tomoya Sakai
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14774v1) | [PDF](https://arxiv.org/pdf/2601.14774v1)
-- **Using Multi-Instance Learning to Identify Unique Polyps in Colon Capsule Endoscopy Images**
-  - Authors: Puneet Sharma, Kristian Dalsbø Hindberg, Eibe Frank, Benedicte Schelde-Olesen, Ulrik Deding
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14771v1) | [PDF](https://arxiv.org/pdf/2601.14771v1)
-- **Anytime Optimal Decision Tree Learning with Continuous Features**
-  - Authors: Harold Kiossou, Pierre Schaus, Siegfried Nijssen
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14765v1) | [PDF](https://arxiv.org/pdf/2601.14765v1)
-- **Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models**
-  - Authors: Injin Kong, Hyoungjoon Lee, Yohan Jo
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14758v1) | [PDF](https://arxiv.org/pdf/2601.14758v1)
-- **ReinPath: A Multimodal Reinforcement Learning Approach for Pathology**
-  - Authors: Kangcheng Zhou, Jun Jiang, Qing Zhang, Shuang Zheng, Qingli Li, Shugong Xu
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14757v1) | [PDF](https://arxiv.org/pdf/2601.14757v1)
-- **Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning**
-  - Authors: Yifan Wang, Shiyu Li, Peiming Li, Xiaochen Yang, Yang Tang, Zheng Wei
-  - Published: 2026-01-21 | Category: `cs.CL`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14750v1) | [PDF](https://arxiv.org/pdf/2601.14750v1)
-- **RefProtoFL: Communication-Efficient Federated Learning via External-Referenced Prototype Alignment**
-  - Authors: Hongyue Wu, Hangyu Li, Guodong Fan, Haoran Zhu, Shizhan Chen, Zhiyong Feng
-  - Published: 2026-01-21 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14746v1) | [PDF](https://arxiv.org/pdf/2601.14746v1)
-- **SimD3: A Synthetic drone Dataset with Payload and Bird Distractor Modeling for Robust Detection**
-  - Authors: Ami Pandat, Kanyala Muvva, Punna Rajasekhar, Gopika Vinod, Rohit Shukla
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14742v1) | [PDF](https://arxiv.org/pdf/2601.14742v1)
-- **Enhancing Text-to-Image Generation via End-Edge Collaborative Hybrid Super-Resolution**
-  - Authors: Chongbin Yi, Yuxin Liang, Ziqi Zhou, Peng Yang
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14741v1) | [PDF](https://arxiv.org/pdf/2601.14741v1)
-- **Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption**
-  - Authors: Liqin Wang, Qianyue Hu, Wei Lu, Xiangyang Luo
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14738v1) | [PDF](https://arxiv.org/pdf/2601.14738v1)
-- **DeepMoLM: Leveraging Visual and Geometric Structural Information for Molecule-Text Modeling**
-  - Authors: Jing Lan, Hexiao Ding, Hongzhao Chen, Yufeng Jiang, Nga-Chun Ng, Gwing Kei Yip, Gerald W. Y. Cheng, Yunlin Mao et al.
-  - Published: 2026-01-21 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14732v1) | [PDF](https://arxiv.org/pdf/2601.14732v1)
+- **Counterfactual Training: Teaching Models Plausible and Actionable Explanations**
+  - Authors: Patrick Altmeyer, Aleksander Buszydlik, Arie van Deursen, Cynthia C. S. Liem
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16205v1) | [PDF](https://arxiv.org/pdf/2601.16205v1)
+- **A Rolling-Space Branch-and-Price Algorithm for the Multi-Compartment Vehicle Routing Problem with Multiple Time Windows**
+  - Authors: El Mehdi Er Raqabi, Kevin Dalmeijer, Pascal Van Hentenryck
+  - Published: 2026-01-22 | Category: `math.OC`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16194v1) | [PDF](https://arxiv.org/pdf/2601.16194v1)
+- **Learning to Discover at Test Time**
+  - Authors: Mert Yuksekgonul, Daniel Koceja, Xinhao Li, Federico Bianchi, Jed McCaleb, Xiaolong Wang, Jan Kautz, Yejin Choi et al.
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16175v1) | [PDF](https://arxiv.org/pdf/2601.16175v1)
+- **Beyond Predictive Uncertainty: Reliable Representation Learning with Structural Constraints**
+  - Authors: Yiyao Yang
+  - Published: 2026-01-22 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16174v1) | [PDF](https://arxiv.org/pdf/2601.16174v1)
+- **Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems**
+  - Authors: Prakash Dhungana, Sayed Ahmad Salehi
+  - Published: 2026-01-22 | Category: `cs.SD`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16158v1) | [PDF](https://arxiv.org/pdf/2601.16158v1)
+- **Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets**
+  - Authors: Muhammad Ilham Rizqyawan, Peter Macfarlane, Stathis Hadjidemetriou, Fani Deligianni
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16147v1) | [PDF](https://arxiv.org/pdf/2601.16147v1)
+- **Computing Fixpoints of Learned Functions: Chaotic Iteration and Simple Stochastic Games**
+  - Authors: Paolo Baldan, Sebastian Gurke, Barbara König, Florian Wittbold
+  - Published: 2026-01-22 | Category: `cs.LO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16142v1) | [PDF](https://arxiv.org/pdf/2601.16142v1)
+- **On the Intrinsic Dimensions of Data in Kernel Learning**
+  - Authors: Rustem Takhanov
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16139v1) | [PDF](https://arxiv.org/pdf/2601.16139v1)
+- **Automatic Classification of Arabic Literature into Historical Eras**
+  - Authors: Zainab Alhathloul, Irfan Ahmad
+  - Published: 2026-01-22 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16138v1) | [PDF](https://arxiv.org/pdf/2601.16138v1)
+- **Synthetic Augmentation in Imbalanced Learning: When It Helps, When It Hurts, and How Much to Add**
+  - Authors: Zhengchi Ma, Anru R. Zhang
+  - Published: 2026-01-22 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16120v1) | [PDF](https://arxiv.org/pdf/2601.16120v1)
+- **Variable Splitting Binary Tree Models Based on Bayesian Context Tree Models for Time Series Segmentation**
+  - Authors: Yuta Nakahara, Shota Saito, Kohei Horinouchi, Koshi Shimada, Naoki Ichijo, Manabu Kobayashi, Toshiyasu Matsushima
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16112v1) | [PDF](https://arxiv.org/pdf/2601.16112v1)
+- **Benchmarking Deep Learning Models for Raman Spectroscopy Across Open-Source Datasets**
+  - Authors: Adithya Sineesh, Akshita Kamsali
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16107v1) | [PDF](https://arxiv.org/pdf/2601.16107v1)
+- **Delayed Assignments in Online Non-Centroid Clustering with Stochastic Arrivals**
+  - Authors: Saar Cohen
+  - Published: 2026-01-22 | Category: `cs.MA`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16091v1) | [PDF](https://arxiv.org/pdf/2601.16091v1)
+- **Probably Approximately Correct Maximum A Posteriori Inference**
+  - Authors: Matthew Shorvon, Frederik Mallmann-Trenn, David S. Watson
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16083v1) | [PDF](https://arxiv.org/pdf/2601.16083v1)
+- **Explainable AI to Improve Machine Learning Reliability for Industrial Cyber-Physical Systems**
+  - Authors: Annemarie Jutte, Uraz Odyurt
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16074v1) | [PDF](https://arxiv.org/pdf/2601.16074v1)
+- **CLASP: An online learning algorithm for Convex Losses And Squared Penalties**
+  - Authors: Ricardo N. Ferreira, Cláudia Soares, João Xavier
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16072v1) | [PDF](https://arxiv.org/pdf/2601.16072v1)
+- **On damage of interpolation to adversarial robustness in regression**
+  - Authors: Jingfu Peng, Yuhong Yang
+  - Published: 2026-01-22 | Category: `stat.ML`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16070v1) | [PDF](https://arxiv.org/pdf/2601.16070v1)
+- **Risk reversal for least squares estimators under nested convex constraints**
+  - Authors: Omar Al-Ghattas
+  - Published: 2026-01-22 | Category: `math.ST`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16041v1) | [PDF](https://arxiv.org/pdf/2601.16041v1)
+- **Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10**
+  - Authors: Yifan Zhu, Yekai Pan, Chen Ding
+  - Published: 2026-01-22 | Category: `cs.PF`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16032v1) | [PDF](https://arxiv.org/pdf/2601.16032v1)
+- **Data-Driven Conditional Flexibility Index**
+  - Authors: Moritz Wedemeyer, Eike Cramer, Alexander Mitsos, Manuel Dahmen
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16028v1) | [PDF](https://arxiv.org/pdf/2601.16028v1)
+- **Partially Lazy Gradient Descent for Smoothed Online Learning**
+  - Authors: Naram Mhaisen, George Iosifidis
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15984v1) | [PDF](https://arxiv.org/pdf/2601.15984v1)
+- **Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data**
+  - Authors: Binbin Lin, Lei Zou, Hao Tian, Heng Cai, Yifan Yang, Bing Zhou
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15977v1) | [PDF](https://arxiv.org/pdf/2601.15977v1)
+- **ICON: Invariant Counterfactual Optimization with Neuro-Symbolic Priors for Text-Based Person Search**
+  - Authors: Xiangyu Wang, Zhixin Lv, Yongjiao Sun, Anrui Han, Ye Yuan, Hangxu Ji
+  - Published: 2026-01-22 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15931v1) | [PDF](https://arxiv.org/pdf/2601.15931v1)
+- **Progressive Power Homotopy for Non-convex Optimization**
+  - Authors: Chen Xu
+  - Published: 2026-01-22 | Category: `math.OC`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15915v1) | [PDF](https://arxiv.org/pdf/2601.15915v1)
+- **Iterative Amortized Hierarchical VAE**
+  - Authors: Simon W. Penninga, Ruud J. G. van Sloun
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15894v1) | [PDF](https://arxiv.org/pdf/2601.15894v1)
+- **SoK: Challenges in Tabular Membership Inference Attacks**
+  - Authors: Cristina Pêra, Tânia Carvalho, Maxime Cordy, Luís Antunes
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15874v1) | [PDF](https://arxiv.org/pdf/2601.15874v1)
+- **Why Inference in Large Models Becomes Decomposable After Training**
+  - Authors: Jidong Jin
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15871v1) | [PDF](https://arxiv.org/pdf/2601.15871v1)
+- **Determinants of Training Corpus Size for Clinical Text Classification**
+  - Authors: Jaya Chaturvedi, Saniya Deshpande, Chenkai Ma, Robert Cobb, Angus Roberts, Robert Stewart, Daniel Stahl, Diana Shamsutdinova
+  - Published: 2026-01-22 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15846v1) | [PDF](https://arxiv.org/pdf/2601.15846v1)
+- **Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models**
+  - Authors: Fengheng Chu, Jiahao Chen, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Songze Li
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15801v1) | [PDF](https://arxiv.org/pdf/2601.15801v1)
+- **Next Generation Active Learning: Mixture of LLMs in the Loop**
+  - Authors: Yuanyuan Qi, Xiaohao Yang, Jueqing Lu, Guoxiang Guo, Joanne Enticott, Gang Liu, Lan Du
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15773v1) | [PDF](https://arxiv.org/pdf/2601.15773v1)
+- **Rethinking Drug-Drug Interaction Modeling as Generalizable Relation Learning**
+  - Authors: Dong Xu, Jiantao Wu, Qihua Pan, Sisi Yuan, Zexuan Zhu, Junkai Ji
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15771v1) | [PDF](https://arxiv.org/pdf/2601.15771v1)
+- **LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**
+  - Authors: Yuhan Chen, Ying Fang, Guofa Li, Wenxuan Yu, Yicui Shi, Jingrui Zhang, Kefei Qian, Wenbo Chu et al.
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15766v1) | [PDF](https://arxiv.org/pdf/2601.15766v1)
+- **Atlas-Assisted Segment Anything Model for Fetal Brain MRI (FeTal-SAM)**
+  - Authors: Qi Zeng, Weide Liu, Bo Li, Ryne Didier, P. Ellen Grant, Davood Karimi
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15759v1) | [PDF](https://arxiv.org/pdf/2601.15759v1)
+- **White-Box mHC: Electromagnetic Spectrum-Aware and Interpretable Stream Interactions for Hyperspectral Image Classification**
+  - Authors: Yimin Zhu, Lincoln Linlin Xu, Zhengsen Xu, Zack Dewis, Mabel Heffring, Saeid Taleghanidoozdoozan, Motasem Alkayid, Quinn Ledingham et al.
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15757v1) | [PDF](https://arxiv.org/pdf/2601.15757v1)
+- **CAFE-GB: Scalable and Stable Feature Selection for Malware Detection via Chunk-wise Aggregated Gradient Boosting**
+  - Authors: Ajvad Haneef K, Karan Kuwar Singh, Madhu Kumar S D
+  - Published: 2026-01-22 | Category: `cs.CR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15754v1) | [PDF](https://arxiv.org/pdf/2601.15754v1)
+- **Breaking the Resolution Barrier: Arbitrary-resolution Deep Image Steganography Framework**
+  - Authors: Xinjue Hu, Chi Wang, Boyu Wang, Xiang Zhang, Zhenshan Tan, Zhangjie Fu
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15739v1) | [PDF](https://arxiv.org/pdf/2601.15739v1)
+- **Sub-Region-Aware Modality Fusion and Adaptive Prompting for Multi-Modal Brain Tumor Segmentation**
+  - Authors: Shadi Alijani, Fereshteh Aghaee Meibodi, Homayoun Najjaran
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15734v1) | [PDF](https://arxiv.org/pdf/2601.15734v1)
+- **FAIR-ESI: Feature Adaptive Importance Refinement for Electrophysiological Source Imaging**
+  - Authors: Linyong Zou, Liang Zhang, Xiongfei Wang, Jia-Hong Gao, Yi Sun, Shurong Sheng, Kuntao Xiao, Wanli Yang et al.
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15731v1) | [PDF](https://arxiv.org/pdf/2601.15731v1)
+- **DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving**
+  - Authors: Rui Yang, Lei Zheng, Ruoyu Yao, Jun Ma
+  - Published: 2026-01-22 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15729v1) | [PDF](https://arxiv.org/pdf/2601.15729v1)
+- **VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning**
+  - Authors: Chenglin Li, Qianglong Chen, Feng Han, Yikun Wang, Xingxi Yin, Yan Gong, Ruilin Li, Yin Zhang et al.
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15724v1) | [PDF](https://arxiv.org/pdf/2601.15724v1)
+- **Communication-efficient Federated Graph Classification via Generative Diffusion Modeling**
+  - Authors: Xiuling Wang, Xin Huang, Haibo Hu, Jianliang Xu
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15722v1) | [PDF](https://arxiv.org/pdf/2601.15722v1)
+- **Even GPT-5.2 Can't Count to Five: The Case for Zero-Error Horizons in Trustworthy LLMs**
+  - Authors: Ryoma Sato
+  - Published: 2026-01-22 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15714v1) | [PDF](https://arxiv.org/pdf/2601.15714v1)
+- **Zero-Shot Product Attribute Labeling with Vision-Language Models: A Three-Tier Evaluation Framework**
+  - Authors: Shubham Shukla, Kunal Sonalkar
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15711v1) | [PDF](https://arxiv.org/pdf/2601.15711v1)
+- **FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**
+  - Authors: Jiahao Zhang, Zifan He, Nicholas Fraser, Michaela Blott, Yizhou Sun, Jason Cong
+  - Published: 2026-01-22 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15710v1) | [PDF](https://arxiv.org/pdf/2601.15710v1)
+- **AgentSM: Semantic Memory for Agentic Text-to-SQL**
+  - Authors: Asim Biswal, Chuan Lei, Xiao Qin, Aodong Li, Balakrishnan Narayanaswamy, Tim Kraska
+  - Published: 2026-01-22 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15709v1) | [PDF](https://arxiv.org/pdf/2601.15709v1)
+- **D-Optimality-Guided Reinforcement Learning for Efficient Open-Loop Calibration of a 3-DOF Ankle Rehabilitation Robot**
+  - Authors: Qifan Hu, Branko Celler, Weidong Mu, Steven W. Su
+  - Published: 2026-01-22 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15707v1) | [PDF](https://arxiv.org/pdf/2601.15707v1)
+- **Enhanced LULC Segmentation via Lightweight Model Refinements on ALOS-2 SAR Data**
+  - Authors: Ali Caglayan, Nevrez Imamoglu, Toru Kouyama
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15705v1) | [PDF](https://arxiv.org/pdf/2601.15705v1)
+- **Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**
+  - Authors: Mingyu Yu, Lana Liu, Zhehao Zhao, Wei Wang, Sujuan Qin
+  - Published: 2026-01-22 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15698v1) | [PDF](https://arxiv.org/pdf/2601.15698v1)
+- **Balancing Security and Privacy: The Pivotal Role of AI in Modern Healthcare Systems**
+  - Authors: Binu V P, Deepthy K Bhaskar, Minimol B
+  - Published: 2026-01-22 | Category: `cs.CR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15697v1) | [PDF](https://arxiv.org/pdf/2601.15697v1)
 
 ---
 

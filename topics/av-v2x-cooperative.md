@@ -1,19 +1,23 @@
 # V2X / Cooperative Perception (V2V, V2I, Sensor Sharing)
 
-**Last update:** 2026-01-22
+**Last update:** 2026-01-23
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
 ## Latest
 
-- **Economic feasibility of virtual operators in 5G via network slicing**
-  - Authors: Erwin J. Sacoto-Cabrera, Luis Guijarro, Jose R. Vidal, Vicent Pla
-  - Published: 2026-01-21 | Category: `cs.NI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.15103v1) | [PDF](https://arxiv.org/pdf/2601.15103v1)
-- **5G NR Non-Terrestrial Networks: Open Challenges for Full-Stack Protocol Design**
-  - Authors: Francesco Rossato, Mattia Figaro, Alessandro Traspadini, Takayuki Shimizu, Chinmay Mahabal, Sanjeewa Herath, Chunghan Lee, Dogan Kutay Pekcan et al.
-  - Published: 2026-01-21 | Category: `cs.NI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.14883v1) | [PDF](https://arxiv.org/pdf/2601.14883v1)
+- **Low-altitude Multi-UAV-assisted Data Collection and Semantic Forwarding for Post-Disaster Relief**
+  - Authors: Xiaoya Zheng, Geng Sun, Jiahui Li, Jiacheng Wang, Weijie Yuan, Qingqing Wu, Dusit Niyato, Abbas Jamalipour
+  - Published: 2026-01-22 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.16146v1) | [PDF](https://arxiv.org/pdf/2601.16146v1)
+- **Dynamic Server Allocation Under Stochastic Switchover on Time-Varying Links**
+  - Authors: Hossein Mohammadalizadeh, Holger Karl
+  - Published: 2026-01-22 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15904v1) | [PDF](https://arxiv.org/pdf/2601.15904v1)
+- **RF Intelligence for Health: Classification of SmartBAN Signals in overcrowded ISM band**
+  - Authors: Nicola Gallucci, Giacomo Aragnetti, Matteo Malagrinò, Francesco Linsalata, Maurizio Magarini, Lorenzo Mucchi
+  - Published: 2026-01-22 | Category: `cs.NI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.15836v1) | [PDF](https://arxiv.org/pdf/2601.15836v1)
 
 ---
 
