@@ -1,6 +1,6 @@
 # Autonomous Driving – Perception (2D/3D Detection, Segmentation)
 
-**Last update:** 2026-01-24
+**Last update:** 2026-01-25
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
