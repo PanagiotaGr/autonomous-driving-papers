@@ -1,6 +1,6 @@
 # Mapping, Localization & HD Maps (AV SLAM / Map Learning)
 
-**Last update:** 2026-01-25
+**Last update:** 2026-01-26
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
