@@ -1,10 +1,139 @@
 # Autonomous Driving – Planning & Control (Motion Planning, MPC, Policy)
 
-**Last update:** 2026-01-26
+**Last update:** 2026-01-27
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
-_No matches today._
+## Latest
+
+- **AI-Driven Fuzzing for Vulnerability Assessment of 5G Traffic Steering Algorithms**
+  - Authors: Seyed Bagher Hashemi Natanzi, Hossein Mohammadi, Bo Tang, Vuk Marojevic
+  - Published: 2026-01-26 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18690v1) | [PDF](https://arxiv.org/pdf/2601.18690v1)
+- **Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**
+  - Authors: Dominik Neudert-Schulz, Thomas Dallmann
+  - Published: 2026-01-26 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18643v1) | [PDF](https://arxiv.org/pdf/2601.18643v1)
+- **Experimental Characterization of ISAC Channel Mapping and Environment Awareness**
+  - Authors: Zhuangzhuang Cui, Rizqi Hersyandika, Haoqiu Xiong, Sofie Pollin
+  - Published: 2026-01-26 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18558v1) | [PDF](https://arxiv.org/pdf/2601.18558v1)
+- **Real-Time Prediction of Lower Limb Joint Kinematics, Kinetics, and Ground Reaction Force using Wearable Sensors and Machine Learning**
+  - Authors: Josée Mallah, Yu Zhu, Kailang Xu, Gurvinder S. Virk, Shaoping Bai, Luigi G. Occhipinti
+  - Published: 2026-01-26 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18494v1) | [PDF](https://arxiv.org/pdf/2601.18494v1)
+- **Frequency-Based Hyperparameter Selection in Games**
+  - Authors: Aniket Sanyal, Baraah A. M. Sidahmed, Rebekka Burkholz, Tatjana Chavdarova
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18409v1) | [PDF](https://arxiv.org/pdf/2601.18409v1)
+- **Superlinear Multi-Step Attention**
+  - Authors: Yufeng Huang
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18401v1) | [PDF](https://arxiv.org/pdf/2601.18401v1)
+- **Estimating Dense-Packed Zone Height in Liquid-Liquid Separation: A Physics-Informed Neural Network Approach**
+  - Authors: Mehmet Velioglu, Song Zhai, Alexander Mitsos, Adel Mhamdi, Andreas Jupke, Manuel Dahmen
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18399v1) | [PDF](https://arxiv.org/pdf/2601.18399v1)
+- **Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models**
+  - Authors: Zhenyuan Guo, Tong Chen, Wenlong Meng, Chen Gong, Xin Yu, Chengkun Wei, Wenzhi Chen
+  - Published: 2026-01-26 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18383v1) | [PDF](https://arxiv.org/pdf/2601.18383v1)
+- **Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning**
+  - Authors: Weiqin Yang, Haowen Xue, Qingyi Peng, Hexuan Hu, Qian Huang, Tingbo Zhang
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18356v1) | [PDF](https://arxiv.org/pdf/2601.18356v1)
+- **Structural Gender Bias in Credit Scoring: Proxy Leakage**
+  - Authors: Navya SD, Sreekanth D, SS Uma Sankari
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18342v1) | [PDF](https://arxiv.org/pdf/2601.18342v1)
+- **A Dataset for Automatic Vocal Mode Classification**
+  - Authors: Reemt Hinrichs, Sonja Stephan, Alexander Lange, Jörn Ostermann
+  - Published: 2026-01-26 | Category: `cs.SD`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18339v1) | [PDF](https://arxiv.org/pdf/2601.18339v1)
+- **Discriminability-Driven Spatial-Channel Selection with Gradient Norm for Drone Signal OOD Detection**
+  - Authors: Chuhan Feng, Jing Li, Jie Li, Lu Lv, Fengkui Gong
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18329v1) | [PDF](https://arxiv.org/pdf/2601.18329v1)
+- **Cognitive Fusion of ZC Sequences and Time-Frequency Images for Out-of-Distribution Detection of Drone Signals**
+  - Authors: Jie Li, Jing Li, Lu Lv, Zhanyu Ju, Fengkui Gong
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18326v1) | [PDF](https://arxiv.org/pdf/2601.18326v1)
+- **A Master Class on Reproducibility: A Student Hackathon on Advanced MRI Reconstruction Methods**
+  - Authors: Lina Felsner, Sevgi G. Kafali, Hannah Eichhorn, Agnes A. J. Leth, Aidas Batvinskas, Andre Datchev, Fabian Klemm, Jan Aulich et al.
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18314v1) | [PDF](https://arxiv.org/pdf/2601.18314v1)
+- **Convex Chance-Constrained Stochastic Control under Uncertain Specifications with Application to Learning-Based Hybrid Powertrain Control**
+  - Authors: Teruki Kato, Ryotaro Shima, Kenji Kashima
+  - Published: 2026-01-26 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18313v1) | [PDF](https://arxiv.org/pdf/2601.18313v1)
+- **A Generative AI-Driven Reliability Layer for Action-Oriented Disaster Resilience**
+  - Authors: Geunsik Lim
+  - Published: 2026-01-26 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18308v1) | [PDF](https://arxiv.org/pdf/2601.18308v1)
+- **Temp-R1: A Unified Autonomous Agent for Complex Temporal KGQA via Reverse Curriculum Reinforcement Learning**
+  - Authors: Zhaoyan Gong, Zhiqiang Liu, Songze Li, Xiaoke Guo, Yuanxiang Liu, Xinle Deng, Zhizhen Liu, Lei Liang et al.
+  - Published: 2026-01-26 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18296v1) | [PDF](https://arxiv.org/pdf/2601.18296v1)
+- **Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**
+  - Authors: Samuel Mallick, Gianpietro Battocletti, Dimitris Boskos, Azita Dabiri, Bart De Schutter
+  - Published: 2026-01-26 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18294v1) | [PDF](https://arxiv.org/pdf/2601.18294v1)
+- **TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment**
+  - Authors: Zhewen Tan, Wenhan Yu, Jianfeng Si, Tongxin Liu, Kaiqi Guan, Huiyan Jin, Jiawen Tao, Xiaokun Yuan et al.
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18292v1) | [PDF](https://arxiv.org/pdf/2601.18292v1)
+- **Think-Augmented Function Calling: Improving LLM Parameter Accuracy Through Embedded Reasoning**
+  - Authors: Lei Wei, Jinpeng Ou, Xiao Peng, Bin Wang
+  - Published: 2026-01-26 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18282v1) | [PDF](https://arxiv.org/pdf/2601.18282v1)
+- **Validation of a Software-Defined 100-Gb/s RDMA Streaming Architecture for Ultrafast Optoacoustic and Ultrasound Imaging**
+  - Authors: Federico Villani, Christian Vogt, Luca Specht, Jero Schmid, Xiang Liu, Andrea Cossettini, Daniel Razansky, Luca Benini
+  - Published: 2026-01-26 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18280v1) | [PDF](https://arxiv.org/pdf/2601.18280v1)
+- **What Do Learned Models Measure?**
+  - Authors: Indrė Žliobaitė
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18278v1) | [PDF](https://arxiv.org/pdf/2601.18278v1)
+- **Toward Scalable Normalizing Flows for the Hubbard Model**
+  - Authors: Janik Kreit, Andrea Bulgarelli, Lena Funcke, Thomas Luu, Dominic Schuh, Simran Singh, Lorenzo Verzichelli
+  - Published: 2026-01-26 | Category: `cond-mat.str-el`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18273v1) | [PDF](https://arxiv.org/pdf/2601.18273v1)
+- **Neural Network Approximation: A View from Polytope Decomposition**
+  - Authors: ZeYu Li, ShiJun Zhang, TieYong Zeng, FengLei Fan
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18264v1) | [PDF](https://arxiv.org/pdf/2601.18264v1)
+- **FGGM: Fisher-Guided Gradient Masking for Continual Learning**
+  - Authors: Chao-Hong Tan, Qian Chen, Wen Wang, Yukun Ma, Chong Zhang, Chong Deng, Qinglin Zhang, Xiangang Li et al.
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18261v1) | [PDF](https://arxiv.org/pdf/2601.18261v1)
+- **Beyond Retention: Orchestrating Structural Safety and Plasticity in Continual Learning for LLMs**
+  - Authors: Fei Meng
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18255v1) | [PDF](https://arxiv.org/pdf/2601.18255v1)
+- **Tractable Gaussian Phase Retrieval with Heavy Tails and Adversarial Corruption with Near-Linear Sample Complexity**
+  - Authors: Santanu Das, Jatin Batra
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18245v1) | [PDF](https://arxiv.org/pdf/2601.18245v1)
+- **TechING: Towards Real World Technical Image Understanding via VLMs**
+  - Authors: Tafazzul Nadeem, Bhavik Shangari, Manish Rai, Gagan Raj Gupta, Ashutosh Modi
+  - Published: 2026-01-26 | Category: `cs.CL`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18238v1) | [PDF](https://arxiv.org/pdf/2601.18238v1)
+- **Rethinking Cross-Modal Fine-Tuning: Optimizing the Interaction between Feature Alignment and Target Fitting**
+  - Authors: Trong Khiem Tran, Manh Cuong Dao, Phi Le Nguyen, Thao Nguyen Truong, Trong Nghia Hoang
+  - Published: 2026-01-26 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18231v1) | [PDF](https://arxiv.org/pdf/2601.18231v1)
+- **Facial Emotion Recognition on FER-2013 using an EfficientNetB2-Based Approach**
+  - Authors: Sahil Naik, Soham Bagayatkar, Pavankumar Singh
+  - Published: 2026-01-26 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18228v1) | [PDF](https://arxiv.org/pdf/2601.18228v1)
+- **Automated HER2 scoring with uncertainty quantification using lensfree holography and deep learning**
+  - Authors: Che-Yung Shen, Xilin Yang, Yuzhu Li, Leon Lenk, Aydogan Ozcan
+  - Published: 2026-01-26 | Category: `physics.med-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18219v1) | [PDF](https://arxiv.org/pdf/2601.18219v1)
+- **Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents**
+  - Authors: Zhihan Liu, Lin Guan, Yixin Nie, Kai Zhang, Zhuoqun Hao, Lin Chen, Asli Celikyilmaz, Zhaoran Wang et al.
+  - Published: 2026-01-26 | Category: `cs.AI`
+  - Links: [arXiv](https://arxiv.org/abs/2601.18217v1) | [PDF](https://arxiv.org/pdf/2601.18217v1)
 
 ---
 
