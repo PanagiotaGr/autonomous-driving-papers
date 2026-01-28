@@ -1,251 +1,251 @@
 # Autonomous Driving – Perception (2D/3D Detection, Segmentation)
 
-**Last update:** 2026-01-27
+**Last update:** 2026-01-28
 
 > Auto-generated. Edit `config.yml` to change queries/filters.
 
 ## Latest
 
-- **Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**
-  - Authors: Shutong Chen, Adnan Aijaz, Yansha Deng
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18765v1) | [PDF](https://arxiv.org/pdf/2601.18765v1)
-- **SeNeDiF-OOD: Semantic Nested Dichotomy Fusion for Out-of-Distribution Detection Methodology in Open-World Classification. A Case Study on Monument Style Classification**
-  - Authors: Ignacio Antequera-Sánchez, Juan Luis Suárez-Díaz, Rosana Montes, Francisco Herrera
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18739v1) | [PDF](https://arxiv.org/pdf/2601.18739v1)
-- **Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**
-  - Authors: Li Kang, Heng Zhou, Xiufeng Song, Rui Li, Bruno N. Y. Chen, Ziye Wang, Ximeng Meng, Stone Tao et al.
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18733v1) | [PDF](https://arxiv.org/pdf/2601.18733v1)
-- **Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**
-  - Authors: Mengyuan Liu, Juyi Sheng, Peiming Li, Ziyi Wang, Tianming Xu, Tiantian Xu, Hong Liu
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18723v1) | [PDF](https://arxiv.org/pdf/2601.18723v1)
-- **Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**
-  - Authors: Judith Vilella-Cantos, Mauro Martini, Marcello Chiaberge, Mónica Ballesta, David Valiente
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18714v1) | [PDF](https://arxiv.org/pdf/2601.18714v1)
-- **SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model**
-  - Authors: Jan Hagnberger, Mathias Niepert
-  - Published: 2026-01-26 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18707v1) | [PDF](https://arxiv.org/pdf/2601.18707v1)
-- **Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**
-  - Authors: Xiao Liu, Jiawei Zhang
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18698v1) | [PDF](https://arxiv.org/pdf/2601.18698v1)
-- **A Pragmatic VLA Foundation Model**
-  - Authors: Wei Wu, Fan Lu, Yunnan Wang, Shuai Yang, Shi Liu, Fangjing Wang, Qian Zhu, He Sun et al.
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18692v1) | [PDF](https://arxiv.org/pdf/2601.18692v1)
-- **Counterfactual Explanations on Robust Perceptual Geodesics**
-  - Authors: Eslam Zaher, Maciej Trzaskowski, Quan Nguyen, Fred Roosta
-  - Published: 2026-01-26 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18678v1) | [PDF](https://arxiv.org/pdf/2601.18678v1)
-- **Constraint-Aware Discrete-Time PID Gain Optimization for Robotic Joint Control Under Actuator Saturation**
-  - Authors: Ojasva Mishra, Xiaolong Wu, Min Xu
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18639v1) | [PDF](https://arxiv.org/pdf/2601.18639v1)
-- **Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**
-  - Authors: Tong Shi, Melonie de Almeida, Daniela Ivanova, Nicolas Pugeault, Paul Henderson
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18633v1) | [PDF](https://arxiv.org/pdf/2601.18633v1)
-- **AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**
-  - Authors: Mingyang Song, Haoyu Sun, Jiawei Gu, Linjie Li, Luxin Xu, Ranjay Krishna, Yu Cheng
-  - Published: 2026-01-26 | Category: `cs.AI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18631v1) | [PDF](https://arxiv.org/pdf/2601.18631v1)
-- **ExoGS: A 4D Real-to-Sim-to-Real Framework for Scalable Manipulation Data Collection**
-  - Authors: Yiming Wang, Ruogu Zhang, Minyang Li, Hao Shi, Junbo Wang, Deyi Li, Jieji Ren, Wenhai Liu et al.
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18629v1) | [PDF](https://arxiv.org/pdf/2601.18629v1)
-- **CONQUER: Context-Aware Representation with Query Enhancement for Text-Based Person Search**
-  - Authors: Zequn Xie
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18625v1) | [PDF](https://arxiv.org/pdf/2601.18625v1)
-- **Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation**
-  - Authors: Zihao Wang, Yuzhou Chen, Shaogang Ren
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18623v1) | [PDF](https://arxiv.org/pdf/2601.18623v1)
-- **Scale-Aware Self-Supervised Learning for Segmentation of Small and Sparse Structures**
-  - Authors: Jorge Quesada, Ghassan AlRegib
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18619v1) | [PDF](https://arxiv.org/pdf/2601.18619v1)
-- **Multimodal Privacy-Preserving Entity Resolution with Fully Homomorphic Encryption**
-  - Authors: Susim Roy, Nalini Ratha
-  - Published: 2026-01-26 | Category: `cs.CR`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18612v1) | [PDF](https://arxiv.org/pdf/2601.18612v1)
-- **EFSI-DETR: Efficient Frequency-Semantic Integration for Real-Time Small Object Detection in UAV Imagery**
-  - Authors: Yu Xia, Chang Liu, Tianqi Xiang, Zhigang Tu
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18597v1) | [PDF](https://arxiv.org/pdf/2601.18597v1)
-- **AGSP-DSA: An Adaptive Graph Signal Processing Framework for Robust Multimodal Fusion with Dynamic Semantic Alignment**
-  - Authors: KV Karthikeya, Ashok Kumar Das, Shantanu Pal, Vivekananda Bhat K, Arun Sekar Rajasekaran
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18589v1) | [PDF](https://arxiv.org/pdf/2601.18589v1)
-- **GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization**
-  - Authors: Chenxi Liu, Selena Ling, Alec Jacobson
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18585v1) | [PDF](https://arxiv.org/pdf/2601.18585v1)
-- **Self-Refining Video Sampling**
-  - Authors: Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Saining Xie, Jaehong Yoon, Sung Ju Hwang
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18577v1) | [PDF](https://arxiv.org/pdf/2601.18577v1)
-- **Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation**
-  - Authors: Seokju Lee, Kyung-Soo Kim
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18569v1) | [PDF](https://arxiv.org/pdf/2601.18569v1)
-- **An Unsupervised Tensor-Based Domain Alignment**
-  - Authors: Chong Hyun Lee, Kibae Lee, Hyun Hee Yim
-  - Published: 2026-01-26 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18564v1) | [PDF](https://arxiv.org/pdf/2601.18564v1)
-- **AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**
-  - Authors: Li Fang, Tianyu Li, Yanghong Lin, Shudong Zhou, Wei Yao
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18560v1) | [PDF](https://arxiv.org/pdf/2601.18560v1)
-- **Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis**
-  - Authors: Jingsong Xia, Siqi Wang
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18556v1) | [PDF](https://arxiv.org/pdf/2601.18556v1)
-- **Automated Landmark Detection for assessing hip conditions: A Cross-Modality Validation of MRI versus X-ray**
-  - Authors: Roberto Di Via, Vito Paolo Pastore, Francesca Odone, Siôn Glyn-Jones, Irina Voiculescu
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18555v1) | [PDF](https://arxiv.org/pdf/2601.18555v1)
-- **Fast and Safe Trajectory Optimization for Mobile Manipulators With Neural Configuration Space Distance Field**
-  - Authors: Yulin Li, Zhiyuan Song, Yiming Li, Zhicheng Song, Kai Chen, Chunxin Zheng, Zhihai Bi, Jiahang Cao et al.
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18548v1) | [PDF](https://arxiv.org/pdf/2601.18548v1)
-- **REMAC: Reference-Based Martian Asymmetrical Image Compression**
-  - Authors: Qing Ding, Mai Xu, Shengxi Li, Xin Deng, Xin Zou
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18547v1) | [PDF](https://arxiv.org/pdf/2601.18547v1)
-- **GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning**
-  - Authors: Kaixun Jiang, Yuzheng Wang, Junjie Zhou, Pandeng Li, Zhihang Liu, Chen-Wei Xie, Zhaoyu Chen, Yun Zheng et al.
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18543v1) | [PDF](https://arxiv.org/pdf/2601.18543v1)
-- **SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**
-  - Authors: Linyong Gan, Zimo Li, Wenxin Xu, Xingjian Li, Jianhua Z. Huang, Enmei Tu, Shuhang Chen
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18537v1) | [PDF](https://arxiv.org/pdf/2601.18537v1)
-- **From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation**
-  - Authors: Devon Levy, Bar Assayag, Laura Gaspar, Ilan Shimshoni, Bella Specktor-Fadida
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18532v1) | [PDF](https://arxiv.org/pdf/2601.18532v1)
-- **Closing the Modality Gap Aligns Group-Wise Semantics**
-  - Authors: Eleonora Grassucci, Giordano Cicchetti, Emanuele Frasca, Aurelio Uncini, Danilo Comminiello
-  - Published: 2026-01-26 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18525v1) | [PDF](https://arxiv.org/pdf/2601.18525v1)
-- **DisasterInsight: A Multimodal Benchmark for Function-Aware and Grounded Disaster Assessment**
-  - Authors: Sara Tehrani, Yonghao Xu, Leif Haglund, Amanda Berg, Michael Felsberg
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18493v1) | [PDF](https://arxiv.org/pdf/2601.18493v1)
-- **DV-VLN: Dual Verification for Reliable LLM-Based Vision-and-Language Navigation**
-  - Authors: Zijun Li, Shijie Li, Zhenxi Zhang, Bin Li, Shoujun Zhou
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18492v1) | [PDF](https://arxiv.org/pdf/2601.18492v1)
-- **AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**
-  - Authors: Dongrui Liu, Qihan Ren, Chen Qian, Shuai Shao, Yuejin Xie, Yu Li, Zhonghao Yang, Haoyu Luo et al.
-  - Published: 2026-01-26 | Category: `cs.AI`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18491v1) | [PDF](https://arxiv.org/pdf/2601.18491v1)
-- **LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction**
-  - Authors: Xinhui Liu, Can Wang, Lei Liu, Zhenghao Chen, Wei Jiang, Wei Wang, Dong Xu
-  - Published: 2026-01-26 | Category: `cs.GR`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18475v1) | [PDF](https://arxiv.org/pdf/2601.18475v1)
-- **Fair-Eye Net: A Fair, Trustworthy, Multimodal Integrated Glaucoma Full Chain AI System**
-  - Authors: Wenbin Wei, Suyuan Yao, Cheng Huang, Xiangyu Gao
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18464v1) | [PDF](https://arxiv.org/pdf/2601.18464v1)
-- **3DGesPolicy: Phoneme-Aware Holistic Co-Speech Gesture Generation Based on Action Control**
-  - Authors: Xuanmeng Sha, Liyun Zhang, Tomohiro Mashita, Naoya Chiba, Yuki Uranishi
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18451v1) | [PDF](https://arxiv.org/pdf/2601.18451v1)
-- **On Procrustes Contamination in Machine Learning Applications of Geometric Morphometrics**
-  - Authors: Lloyd Austin Courtenay
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18448v1) | [PDF](https://arxiv.org/pdf/2601.18448v1)
-- **SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**
-  - Authors: Hongyi Zhao, Shuo Wang, Qijie He, Ziyuan Pu
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18442v1) | [PDF](https://arxiv.org/pdf/2601.18442v1)
-- **Comparative Evaluation of Machine Learning Algorithms for Affective State Recognition from Children's Drawings**
-  - Authors: Aura Loredana Dan
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18414v1) | [PDF](https://arxiv.org/pdf/2601.18414v1)
-- **Larger than memory image processing**
-  - Authors: Jon Sporring, David Stansby
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18407v1) | [PDF](https://arxiv.org/pdf/2601.18407v1)
-- **Noise-Robust AV-ASR Using Visual Features Both in the Whisper Encoder and Decoder**
-  - Authors: Zhengyang Li, Thomas Graave, Björn Möller, Zehang Wu, Matthias Franz, Tim Fingscheidt
-  - Published: 2026-01-26 | Category: `eess.AS`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18396v1) | [PDF](https://arxiv.org/pdf/2601.18396v1)
-- **Efficient Complex-Valued Vision Transformers for MRI Classification Directly from k-Space**
-  - Authors: Moritz Rempe, Lukas T. Rotkopf, Marco Schlimbach, Helmut Becker, Fabian Hörst, Johannes Haubold, Philipp Dammann, Kevin Kröninger et al.
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18392v1) | [PDF](https://arxiv.org/pdf/2601.18392v1)
-- **ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks**
-  - Authors: Gabriel Lee Jun Rong, Christos Korgialas, Dion Jia Xu Ho, Pai Chet Ng, Xiaoxiao Miao, Konstantinos N. Plataniotis
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18386v1) | [PDF](https://arxiv.org/pdf/2601.18386v1)
-- **Estimation of geometric transformation matrices using grid-shaped pilot signals**
-  - Authors: Rinka Kawano, Masaki Kawamura
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18385v1) | [PDF](https://arxiv.org/pdf/2601.18385v1)
-- **Gaze Prediction in Virtual Reality Without Eye Tracking Using Visual and Head Motion Cues**
-  - Authors: Christos Petrou, Harris Partaourides, Athanasios Balomenos, Yannis Kopsinis, Sotirios Chatzis
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18372v1) | [PDF](https://arxiv.org/pdf/2601.18372v1)
-- **OREHAS: A fully automated deep-learning pipeline for volumetric endolymphatic hydrops quantification in MRI**
-  - Authors: Caterina Fuster-Barceló, Claudia Castrillón, Laura Rodrigo-Muñoz, Victor Manuel Vega-Suárez, Nicolás Pérez-Fernández, Gorka Bastarrika, Arrate Muñoz-Barrutia
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18368v1) | [PDF](https://arxiv.org/pdf/2601.18368v1)
-- **Q-Bench-Portrait: Benchmarking Multimodal Large Language Models on Portrait Image Quality Perception**
-  - Authors: Sijing Wu, Yunhao Li, Zicheng Zhang, Qi Jia, Xinyue Li, Huiyu Duan, Xiongkuo Min, Guangtao Zhai
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18346v1) | [PDF](https://arxiv.org/pdf/2601.18346v1)
-- **Beyond Rigid: Benchmarking Non-Rigid Video Editing**
-  - Authors: Bingzheng Qu, Kehai Chen, Xuefeng Bai, Jun Yu, Min Zhang
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18340v1) | [PDF](https://arxiv.org/pdf/2601.18340v1)
-- **PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction**
-  - Authors: Isaac Deutsch, Nicolas Moënne-Loccoz, Gavriel State, Zan Gojcic
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18336v1) | [PDF](https://arxiv.org/pdf/2601.18336v1)
-- **A Tumor Aware DenseNet Swin Hybrid Learning with Boosted and Hierarchical Feature Spaces for Large-Scale Brain MRI Classification**
-  - Authors: Muhammad Ali Shah, Muhammad Mansoor Alam, Saddam Hussain Khan
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18330v1) | [PDF](https://arxiv.org/pdf/2601.18330v1)
-- **TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**
-  - Authors: Weishi Mi, Yong Bao, Xiaowei Chi, Xiaozhu Ju, Zhiyuan Qin, Kuangzhi Ge, Kai Tang, Peidong Jia et al.
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18323v1) | [PDF](https://arxiv.org/pdf/2601.18323v1)
-- **Integrating Fine-Grained Audio-Visual Evidence for Robust Multimodal Emotion Reasoning**
-  - Authors: Zhixian Zhao, Wenjie Tian, Xiaohai Tian, Jun Zhang, Lei Xie
-  - Published: 2026-01-26 | Category: `cs.MM`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18321v1) | [PDF](https://arxiv.org/pdf/2601.18321v1)
-- **SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis**
-  - Authors: Xuan Wang, Siyuan Su, Quantong Fu, Yongxiang Hu, Yangfan Zhou
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18305v1) | [PDF](https://arxiv.org/pdf/2601.18305v1)
-- **Contextual Range-View Projection for 3D LiDAR Point Clouds**
-  - Authors: Seyedali Mousavi, Seyedhamidreza Mousavi, Masoud Daneshtalab
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18301v1) | [PDF](https://arxiv.org/pdf/2601.18301v1)
-- **Quest2ROS2: A ROS 2 Framework for Bi-manual VR Teleoperation**
-  - Authors: Jialong Li, Zhenguo Wang, Tianci Wang, Maj Stenmark, Volker Krueger
-  - Published: 2026-01-26 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18289v1) | [PDF](https://arxiv.org/pdf/2601.18289v1)
-- **Depth to Anatomy: Learning Internal Organ Locations from Surface Depth Images**
-  - Authors: Eytan Kats, Kai Geissler, Daniel Mensing, Jochen G. Hirsch, Stefan Heldman, Mattias P. Heinrich
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18260v1) | [PDF](https://arxiv.org/pdf/2601.18260v1)
-- **Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing**
-  - Authors: Chao Wang, Xuanying Li, Cheng Dai, Jinglei Feng, Yuxiang Luo, Yuqi Ouyang, Hao Qin
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18252v1) | [PDF](https://arxiv.org/pdf/2601.18252v1)
-- **A multimodal vision foundation model for generalizable knee pathology**
-  - Authors: Kang Yu, Dingyu Wang, Zimu Yuan, Nan Zhou, Jiajun Liu, Jiaxin Liu, Shanggui Liu, Yaoyan Zheng et al.
-  - Published: 2026-01-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18250v1) | [PDF](https://arxiv.org/pdf/2601.18250v1)
+- **DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding**
+  - Authors: Shubham Patle, Sara Ghaboura, Hania Tariq, Mohammad Usman Khan, Omkar Thawakar, Rao Muhammad Anwer, Salman Khan
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19898v1) | [PDF](https://arxiv.org/pdf/2601.19898v1)
+- **VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**
+  - Authors: Dominic Maggio, Luca Carlone
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19887v1) | [PDF](https://arxiv.org/pdf/2601.19887v1)
+- **SONIC: Spectral Oriented Neural Invariant Convolutions**
+  - Authors: Gijs Joppe Moens, Regina Beets-Tan, Eduardo H. P. Pooch
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19884v1) | [PDF](https://arxiv.org/pdf/2601.19884v1)
+- **Estimating Trust in Human-Robot Collaboration through Behavioral Indicators and Explainability**
+  - Authors: Giulio Campagna, Marta Lagomarsino, Marta Lorenzini, Dimitrios Chrysostomou, Matthias Rehm, Arash Ajoudani
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19856v1) | [PDF](https://arxiv.org/pdf/2601.19856v1)
+- **How Does Delegation in Social Interaction Evolve Over Time? Navigation with a Robot for Blind People**
+  - Authors: Rayna Hata, Masaki Kuribayashi, Allan Wang, Hironobu Takagi, Chieko Asakawa
+  - Published: 2026-01-27 | Category: `cs.HC`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19851v1) | [PDF](https://arxiv.org/pdf/2601.19851v1)
+- **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**
+  - Authors: Binzhu Xie, Shi Qiu, Sicheng Zhang, Yinqiao Wang, Hao Xu, Muzammal Naseer, Chi-Wing Fu, Pheng-Ann Heng
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19850v1) | [PDF](https://arxiv.org/pdf/2601.19850v1)
+- **HexFormer: Hyperbolic Vision Transformer with Exponential Map Aggregation**
+  - Authors: Haya Alyoussef, Ahmad Bdeir, Diego Coello de Portugal Mecke, Tom Hanika, Niels Landwehr, Lars Schmidt-Thieme
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19849v1) | [PDF](https://arxiv.org/pdf/2601.19849v1)
+- **HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**
+  - Authors: Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson, Mouad Abrini, Mahdi Khoramshahi, Maribel Pino, Mohamed Chetouani
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19839v1) | [PDF](https://arxiv.org/pdf/2601.19839v1)
+- **Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation**
+  - Authors: Elena Merlo, Marta Lagomarsino, Arash Ajoudani
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19832v1) | [PDF](https://arxiv.org/pdf/2601.19832v1)
+- **Whether We Care, How We Reason: The Dual Role of Anthropomorphism and Moral Foundations in Robot Abuse**
+  - Authors: Fan Yang, Renkai Ma, Yaxin Hu, Lingyao Li
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19826v1) | [PDF](https://arxiv.org/pdf/2601.19826v1)
+- **Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering**
+  - Authors: Kun Li, Michael Ying Yang, Sami Sebastian Brandt
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19821v1) | [PDF](https://arxiv.org/pdf/2601.19821v1)
+- **Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals**
+  - Authors: Octavio Pappalardo
+  - Published: 2026-01-27 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19810v1) | [PDF](https://arxiv.org/pdf/2601.19810v1)
+- **Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision**
+  - Authors: Zhixiang Wei, Yi Li, Zhehan Kan, Xinghua Jiang, Zuwei Long, Shifeng Liu, Hongze Shen, Wei Liu et al.
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19798v1) | [PDF](https://arxiv.org/pdf/2601.19798v1)
+- **Diffusion for De-Occlusion: Accessory-Aware Diffusion Inpainting for Robust Ear Biometric Recognition**
+  - Authors: Deeksha Arun, Kevin W. Bowyer, Patrick Flynn
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19795v1) | [PDF](https://arxiv.org/pdf/2601.19795v1)
+- **GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**
+  - Authors: Haozhi Zhu, Miaomiao Zhao, Dingyao Liu, Runze Tian, Yan Zhang, Jie Guo, Fenggen Yu
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19785v1) | [PDF](https://arxiv.org/pdf/2601.19785v1)
+- **PaW-ViT: A Patch-based Warping Vision Transformer for Robust Ear Verification**
+  - Authors: Deeksha Arun, Kevin W. Bowyer, Patrick Flynn
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19771v1) | [PDF](https://arxiv.org/pdf/2601.19771v1)
+- **Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications**
+  - Authors: Jin Huang, Fethiye Irmak Doğan, Hatice Gunes
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19761v1) | [PDF](https://arxiv.org/pdf/2601.19761v1)
+- **WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**
+  - Authors: Xinrui Zhang, Yufeng Wang, Shuangkang Fang, Zesheng Wang, Dacheng Qi, Wenrui Ding
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19753v1) | [PDF](https://arxiv.org/pdf/2601.19753v1)
+- **Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**
+  - Authors: Junchen Fu, Wenhao Deng, Kaiwen Zheng, Alexandros Karatzoglou, Ioannis Arapakis, Yu Ye, Yongxin Ni, Joemon M. Jose et al.
+  - Published: 2026-01-27 | Category: `cs.MM`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19750v1) | [PDF](https://arxiv.org/pdf/2601.19750v1)
+- **Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification**
+  - Authors: Jyun-Ping Kao, Jiaxing Yang, C. -C. Jay Kuo, Jonghye Woo
+  - Published: 2026-01-27 | Category: `eess.IV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19743v1) | [PDF](https://arxiv.org/pdf/2601.19743v1)
+- **SCOPE: Smooth Convex Optimization for Planned Evolution of Deformable Linear Objects**
+  - Authors: Ali Jnadi, Hadi Salloum, Yaroslav Kholodov, Alexander Gasnikov, Karam Almaghout
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19742v1) | [PDF](https://arxiv.org/pdf/2601.19742v1)
+- **DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization**
+  - Authors: Yitong Yang, Xuexin Liu, Yinglin Wang, Jing Wang, Hao Dou, Changshuo Wang, Shuting He
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19717v1) | [PDF](https://arxiv.org/pdf/2601.19717v1)
+- **Scalable Exploration for High-Dimensional Continuous Control via Value-Guided Flow**
+  - Authors: Yunyue Wei, Chenhui Zuo, Yanan Sui
+  - Published: 2026-01-27 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19707v1) | [PDF](https://arxiv.org/pdf/2601.19707v1)
+- **Self-Supervised Weight Templates for Scalable Vision Model Initialization**
+  - Authors: Yucheng Xie, Fu Feng, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19694v1) | [PDF](https://arxiv.org/pdf/2601.19694v1)
+- **DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation**
+  - Authors: Renrong Shao, Dongyang Li, Dong Xia, Lin Shao, Jiangdong Lu, Fen Zheng, Lulu Zhang
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19690v1) | [PDF](https://arxiv.org/pdf/2601.19690v1)
+- **Video-KTR: Reinforcing Video Reasoning via Key Token Attribution**
+  - Authors: Ziyue Wang, Sheng Jin, Zhongrong Zuo, Jiawei Wu, Han Qiu, Qi She, Hao Zhang, Xudong Jiang
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19686v1) | [PDF](https://arxiv.org/pdf/2601.19686v1)
+- **SharpNet: Enhancing MLPs to Represent Functions with Controlled Non-differentiability**
+  - Authors: Hanting Niu, Junkai Deng, Fei Hou, Wencheng Wang, Ying He
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19683v1) | [PDF](https://arxiv.org/pdf/2601.19683v1)
+- **A new Image Similarity Metric for a Perceptual and Transparent Geometric and Chromatic Assessment**
+  - Authors: Antonio Di Marino, Vincenzo Bevilacqua, Emanuel Di Nardo, Angelo Ciaramella, Ivanoe De Falco, Giovanna Sannino
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19680v1) | [PDF](https://arxiv.org/pdf/2601.19680v1)
+- **KeepLoRA: Continual Learning with Residual Gradient Adaptation**
+  - Authors: Mao-Lin Luo, Zi-Hao Zhou, Yi-Lin Zhang, Yuanyu Wan, Tong Wei, Min-Ling Zhang
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19659v1) | [PDF](https://arxiv.org/pdf/2601.19659v1)
+- **Enhancing Worker Safety in Harbors Using Quadruped Robots**
+  - Authors: Zoe Betta, Davide Corongiu, Carmine Tommaso Recchiuto, Antonio Sgorbissa
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19643v1) | [PDF](https://arxiv.org/pdf/2601.19643v1)
+- **Towards Governance-Oriented Low-Altitude Intelligence: A Management-Centric Multi-Modal Benchmark With Implicitly Coordinated Vision-Language Reasoning Framework**
+  - Authors: Hao Chang, Zhihui Wang, Lingxiang Wu, Peijin Wang, Wenhui Diao, Jinqiao Wang
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19640v1) | [PDF](https://arxiv.org/pdf/2601.19640v1)
+- **AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation**
+  - Authors: Wenda Yu, Tianshi Wang, Fengling Li, Jingjing Li, Lei Zhu
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19634v1) | [PDF](https://arxiv.org/pdf/2601.19634v1)
+- **The role of self-supervised pretraining in differentially private medical image analysis**
+  - Authors: Soroosh Tayebi Arasteh, Mina Farajiamiri, Mahshad Lotfinia, Behrus Hinrichs-Puladi, Jonas Bienzeisler, Mohamed Alhaskir, Mirabela Rusu, Christiane Kuhl et al.
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19618v1) | [PDF](https://arxiv.org/pdf/2601.19618v1)
+- **Safe Exploration via Policy Priors**
+  - Authors: Manuel Wendl, Yarden As, Manish Prajapat, Anton Pollak, Stelian Coros, Andreas Krause
+  - Published: 2026-01-27 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19612v1) | [PDF](https://arxiv.org/pdf/2601.19612v1)
+- **GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**
+  - Authors: Shentong Mo, Zehua Chen, Jun Zhu
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19606v1) | [PDF](https://arxiv.org/pdf/2601.19606v1)
+- **Localized Latent Editing for Dose-Response Modeling in Botulinum Toxin Injection Planning**
+  - Authors: Estèphe Arnaud, Mohamed Daoudi, Pierre Guerreschi
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19593v1) | [PDF](https://arxiv.org/pdf/2601.19593v1)
+- **ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**
+  - Authors: Yujin Wang, Yutong Zheng, Wenxian Fan, Tianyi Wang, Hongqing Chu, Daxin Tian, Bingzhao Gao, Jianqiang Wang et al.
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19582v1) | [PDF](https://arxiv.org/pdf/2601.19582v1)
+- **QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**
+  - Authors: Cuong Le, Pavlo Melnyk, Urs Waldmann, Mårten Wadenbäck, Bastian Wandt
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19580v1) | [PDF](https://arxiv.org/pdf/2601.19580v1)
+- **MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation**
+  - Authors: Ronglai Zuo, Rolandos Alexandros Potamias, Qi Sun, Evangelos Ververas, Jiankang Deng, Stefanos Zafeiriou
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19577v1) | [PDF](https://arxiv.org/pdf/2601.19577v1)
+- **The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**
+  - Authors: Riccardo Giubilato, Marcus Gerhard Müller, Marco Sewtz, Laura Alejandra Encinar Gonzalez, John Folkesson, Rudolph Triebel
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19557v1) | [PDF](https://arxiv.org/pdf/2601.19557v1)
+- **Enhancing Inverse Perspective Mapping for Automatic Vectorized Road Map Generation**
+  - Authors: Hongji Liu, Linwei Zheng, Yongjian Li, Mingkai Tang, Xiaoyang Yan, Ming Liu, Jun Ma
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19536v1) | [PDF](https://arxiv.org/pdf/2601.19536v1)
+- **Rhombot: Rhombus-shaped Modular Robots for Stable, Medium-Independent Reconfiguration Motion**
+  - Authors: Jie Gu, Yirui Sun, Zhihao Xia, Tin Lun Lam, Chunxu Tian, Dan Zhang
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19529v1) | [PDF](https://arxiv.org/pdf/2601.19529v1)
+- **A Non-Invasive 3D Gait Analysis Framework for Quantifying Psychomotor Retardation in Major Depressive Disorder**
+  - Authors: Fouad Boutaleb, Emery Pierson, Mohamed Daoudi, Clémence Nineuil, Ali Amad, Fabien D'Hondt
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19526v1) | [PDF](https://arxiv.org/pdf/2601.19526v1)
+- **Mocap Anywhere: Towards Pairwise-Distance based Motion Capture in the Wild (for the Wild)**
+  - Authors: Ofir Abramovich, Ariel Shamir, Andreas Aristidou
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19519v1) | [PDF](https://arxiv.org/pdf/2601.19519v1)
+- **PALM: Enhanced Generalizability for Local Visuomotor Policies via Perception Alignment**
+  - Authors: Ruiyu Wang, Zheyu Zhuang, Danica Kragic, Florian T. Pokorny
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19514v1) | [PDF](https://arxiv.org/pdf/2601.19514v1)
+- **ALRM: Agentic LLM for Robotic Manipulation**
+  - Authors: Vitor Gaboardi dos Santos, Ibrahim Khadraoui, Ibrahim Farhat, Hamza Yous, Samy Teffahi, Hakim Hacid
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19510v1) | [PDF](https://arxiv.org/pdf/2601.19510v1)
+- **A DVL Aided Loosely Coupled Inertial Navigation Strategy for AUVs with Attitude Error Modeling and Variance Propagation**
+  - Authors: Jin Huang, Zichen Liu, Haoda Li, Zhikun Wang, Ying Chen
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19509v1) | [PDF](https://arxiv.org/pdf/2601.19509v1)
+- **Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration**
+  - Authors: Zhengjian Yao, Jiakui Hu, Kaiwen Li, Hangzhou He, Xinliang Zhang, Shuang Zeng, Lei Zhu, Yanye Lu
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19506v1) | [PDF](https://arxiv.org/pdf/2601.19506v1)
+- **Reinforcement Learning Goal-Reaching Control with Guaranteed Lyapunov-Like Stabilizer for Mobile Robots**
+  - Authors: Mehdi Heydari Shahna, Seyed Adel Alizadeh Kolagar, Jouni Mattila
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19499v1) | [PDF](https://arxiv.org/pdf/2601.19499v1)
+- **Cortex-Grounded Diffusion Models for Brain Image Generation**
+  - Authors: Fabian Bongratz, Yitong Li, Sama Elbaroudy, Christian Wachinger
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19498v1) | [PDF](https://arxiv.org/pdf/2601.19498v1)
+- **Self-Reconfiguration Planning for Deformable Quadrilateral Modular Robots**
+  - Authors: Jie Gu, Hongrun Gao, Zhihao Xia, Yirun Sun, Chunxu Tian, Dan Zhang
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19496v1) | [PDF](https://arxiv.org/pdf/2601.19496v1)
+- **Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**
+  - Authors: Ziyu Zhang, Tianle Liu, Diantao Tu, Shuhan Shen
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19489v1) | [PDF](https://arxiv.org/pdf/2601.19489v1)
+- **Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**
+  - Authors: Yizhao Han, Tianxing Shi, Zhao Wang, Zifan Xu, Zhiyuan Pu, Mingxiao Li, Qian Zhang, Wei Yin et al.
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19488v1) | [PDF](https://arxiv.org/pdf/2601.19488v1)
+- **Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**
+  - Authors: Yin Wang, Zhiying Leng, Haitian Liu, Frederick W. B. Li, Mu Li, Xiaohui Liang
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19484v1) | [PDF](https://arxiv.org/pdf/2601.19484v1)
+- **Physical Human-Robot Interaction: A Critical Review of Safety Constraints**
+  - Authors: Riccardo Zanella, Federico Califano, Stefano Stramigioli
+  - Published: 2026-01-27 | Category: `eess.SY`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19462v1) | [PDF](https://arxiv.org/pdf/2601.19462v1)
+- **Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**
+  - Authors: Yida Lin, Bing Xue, Mengjie Zhang, Sam Schofield, Richard Green
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19461v1) | [PDF](https://arxiv.org/pdf/2601.19461v1)
+- **DSTCS: Dual-Student Teacher Framework with Segment Anything Model for Semi-Supervised Pubic Symphysis Fetal Head Segmentation**
+  - Authors: Yalin Luo, Shun Long, Huijin Wang, Jieyun Bai
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19446v1) | [PDF](https://arxiv.org/pdf/2601.19446v1)
+- **RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming**
+  - Authors: Jisheng Chu, Wenrui Li, Rui Zhao, Wangmeng Zuo, Shifeng Chen, Xiaopeng Fan
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19433v1) | [PDF](https://arxiv.org/pdf/2601.19433v1)
+- **Unveiling Perceptual Artifacts: A Fine-Grained Benchmark for Interpretable AI-Generated Image Detection**
+  - Authors: Yao Xiao, Weiyan Chen, Jiahao Chen, Zijie Cao, Weijian Deng, Binbin Yang, Ziyi Dong, Xiangyang Ji et al.
+  - Published: 2026-01-27 | Category: `cs.CV`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19430v1) | [PDF](https://arxiv.org/pdf/2601.19430v1)
+- **Task-Centric Policy Optimization from Misaligned Motion Priors**
+  - Authors: Ziang Zheng, Kai Feng, Yi Nie, Shentao Qin
+  - Published: 2026-01-27 | Category: `cs.RO`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19411v1) | [PDF](https://arxiv.org/pdf/2601.19411v1)
 
 ---
 
